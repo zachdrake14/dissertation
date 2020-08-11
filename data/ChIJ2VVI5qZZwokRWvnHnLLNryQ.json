@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "27",
+            "short_name" : "27",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Madison Avenue",
+            "short_name" : "Madison Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10010",
+            "short_name" : "10010",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "2201",
+            "short_name" : "2201",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e27 Madison Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10010-2201\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "27 Madison Ave, New York, NY 10010, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7421483,
+            "lng" : -73.98663169999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7435649802915,
+               "lng" : -73.98544371970848
+            },
+            "southwest" : {
+               "lat" : 40.7408670197085,
+               "lng" : -73.98814168029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "eb97284acf3bd27c14e710581d489633970d9e91",
+      "name" : "27 Madison Ave",
+      "place_id" : "ChIJ2VVI5qZZwokRWvnHnLLNryQ",
+      "reference" : "ChIJ2VVI5qZZwokRWvnHnLLNryQ",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=27+Madison+Ave,+New+York,+NY+10010,+USA&ftid=0x89c259a6e64855d9:0x24afcdb29cc7f95a",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

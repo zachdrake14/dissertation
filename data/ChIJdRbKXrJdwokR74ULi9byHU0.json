@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2345",
+            "short_name" : "2345",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Pitkin Avenue",
+            "short_name" : "Pitkin Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "East New York",
+            "short_name" : "East New York",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11207",
+            "short_name" : "11207",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "3836",
+            "short_name" : "3836",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2345 Pitkin Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11207-3836\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "2345 Pitkin Ave, Brooklyn, NY 11207, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6736253,
+            "lng" : -73.88579639999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6748788302915,
+               "lng" : -73.88442221970848
+            },
+            "southwest" : {
+               "lat" : 40.6721808697085,
+               "lng" : -73.88712018029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "2345 Pitkin Ave",
+      "place_id" : "ChIJdRbKXrJdwokR74ULi9byHU0",
+      "reference" : "ChIJdRbKXrJdwokR74ULi9byHU0",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=2345+Pitkin+Ave,+Brooklyn,+NY+11207,+USA&ftid=0x89c25db25eca1675:0x4d1df2d68b0b85ef",
+      "utc_offset" : -240,
+      "vicinity" : "Brooklyn"
+   },
+   "status" : "OK"
+}
+

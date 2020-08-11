@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3515",
+            "short_name" : "3515",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bedford Avenue",
+            "short_name" : "Bedford Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Midwood",
+            "short_name" : "Midwood",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11210",
+            "short_name" : "11210",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "5236",
+            "short_name" : "5236",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e3515 Bedford Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11210-5236\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "3515 Bedford Ave, Brooklyn, NY 11210, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.616528,
+            "lng" : -73.9494375
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6178585802915,
+               "lng" : -73.9482542697085
+            },
+            "southwest" : {
+               "lat" : 40.6151606197085,
+               "lng" : -73.95095223029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "681d39b4eb4fa91368844a1be744514c0c5177f0",
+      "name" : "3515 Bedford Ave",
+      "place_id" : "ChIJN7Upn7xEwokRoJQZEAASQb8",
+      "reference" : "ChIJN7Upn7xEwokRoJQZEAASQb8",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=3515+Bedford+Ave,+Brooklyn,+NY+11210,+USA&ftid=0x89c244bc9f29b537:0xbf411200101994a0",
+      "utc_offset" : -240,
+      "vicinity" : "Brooklyn"
+   },
+   "status" : "OK"
+}
+

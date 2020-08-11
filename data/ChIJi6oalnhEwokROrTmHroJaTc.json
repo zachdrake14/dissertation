@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3047",
+            "short_name" : "3047",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Emmons Avenue",
+            "short_name" : "Emmons Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sheepshead Bay",
+            "short_name" : "Sheepshead Bay",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11235",
+            "short_name" : "11235",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e3047 Emmons Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11235\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "3047 Emmons Ave, Brooklyn, NY 11235, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.5841776,
+            "lng" : -73.9369859
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.5854540802915,
+               "lng" : -73.9356310197085
+            },
+            "southwest" : {
+               "lat" : 40.5827561197085,
+               "lng" : -73.9383289802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "3047 Emmons Ave",
+      "place_id" : "ChIJi6oalnhEwokROrTmHroJaTc",
+      "plus_code" : {
+         "compound_code" : "H3M7+M6 New York, NY, USA",
+         "global_code" : "87G8H3M7+M6"
+      },
+      "reference" : "ChIJi6oalnhEwokROrTmHroJaTc",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=3047+Emmons+Ave,+Brooklyn,+NY+11235,+USA&ftid=0x89c24478961aaa8b:0x376909ba1ee6b43a",
+      "utc_offset" : -240,
+      "vicinity" : "Brooklyn"
+   },
+   "status" : "OK"
+}
+

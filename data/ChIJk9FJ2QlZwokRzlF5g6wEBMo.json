@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "97",
+            "short_name" : "97",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Lexington Avenue",
+            "short_name" : "Lexington Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10010",
+            "short_name" : "10010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e97 Lexington Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "97 Lexington Ave, New York, NY 10010, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.74180800000001,
+            "lng" : -73.982725
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.74321378029151,
+               "lng" : -73.98151021970848
+            },
+            "southwest" : {
+               "lat" : 40.74051581970851,
+               "lng" : -73.9842081802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "97 Lexington Ave",
+      "place_id" : "ChIJk9FJ2QlZwokRzlF5g6wEBMo",
+      "plus_code" : {
+         "compound_code" : "P2R8+PW New York, NY, USA",
+         "global_code" : "87G8P2R8+PW"
+      },
+      "reference" : "ChIJk9FJ2QlZwokRzlF5g6wEBMo",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=97+Lexington+Ave,+New+York,+NY+10010,+USA&ftid=0x89c25909d949d193:0xca0404ac837951ce",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

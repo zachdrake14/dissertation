@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "40",
+            "short_name" : "40",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "5th Avenue",
+            "short_name" : "5th Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10011",
+            "short_name" : "10011",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "8843",
+            "short_name" : "8843",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e40 5th Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10011-8843\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "40 5th Ave, New York, NY 10011, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7340467,
+            "lng" : -73.9955598
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7353127802915,
+               "lng" : -73.99402086970849
+            },
+            "southwest" : {
+               "lat" : 40.7326148197085,
+               "lng" : -73.9967188302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "01ac9521b821ee4ebc38e92200e1993da72bce2e",
+      "name" : "40 5th Ave",
+      "place_id" : "ChIJ74zjb5dZwokR67uFyNtK3MU",
+      "reference" : "ChIJ74zjb5dZwokR67uFyNtK3MU",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=40+5th+Ave,+New+York,+NY+10011,+USA&ftid=0x89c259976fe38cef:0xc5dc4adbc885bbeb",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

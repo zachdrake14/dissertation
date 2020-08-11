@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "245",
+            "short_name" : "245",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Murray Street",
+            "short_name" : "Murray Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10282",
+            "short_name" : "10282",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "5651",
+            "short_name" : "5651",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e245 Murray Street\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10282-5651\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "245 Murray Street, New York, NY 10282, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.71508689999999,
+            "lng" : -74.0150476
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7166007802915,
+               "lng" : -74.0135230697085
+            },
+            "southwest" : {
+               "lat" : 40.7139028197085,
+               "lng" : -74.0162210302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "245 Murray Street",
+      "place_id" : "ChIJQ0qDeRxawokR8oi8y3E-eYw",
+      "plus_code" : {
+         "compound_code" : "PX8M+2X New York, NY, USA",
+         "global_code" : "87G7PX8M+2X"
+      },
+      "reference" : "ChIJQ0qDeRxawokR8oi8y3E-eYw",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=245+Murray+Street,+New+York,+NY+10282,+USA&ftid=0x89c25a1c79834a43:0x8c793e71cbbc88f2",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

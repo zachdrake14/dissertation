@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "118-59",
+            "short_name" : "118-59",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "221st Street",
+            "short_name" : "221st St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jamaica",
+            "short_name" : "Jamaica",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11411",
+            "short_name" : "11411",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e118-59 221st St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJamaica\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11411\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "118-59 221st St, Jamaica, NY 11411, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6916612,
+            "lng" : -73.7406307
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6930511802915,
+               "lng" : -73.73941641970849
+            },
+            "southwest" : {
+               "lat" : 40.6903532197085,
+               "lng" : -73.7421143802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "118-59 221st St",
+      "place_id" : "ChIJ380nueRjwokR_NNTtOfPBJE",
+      "reference" : "ChIJ380nueRjwokR_NNTtOfPBJE",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=118-59+221st+St,+Jamaica,+NY+11411,+USA&ftid=0x89c263e4b927cddf:0x9104cfe7b453d3fc",
+      "utc_offset" : -240,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}
+

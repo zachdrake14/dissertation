@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "390",
+            "short_name" : "390",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "5th Avenue",
+            "short_name" : "5th Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10018",
+            "short_name" : "10018",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e390 5th Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10018\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "390 5th Ave, New York, NY 10018, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7496383,
+            "lng" : -73.98391590000001
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7509529302915,
+               "lng" : -73.98248381970849
+            },
+            "southwest" : {
+               "lat" : 40.7482549697085,
+               "lng" : -73.9851817802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "390 5th Ave",
+      "place_id" : "ChIJD2If7qlZwokREwGYp6YFZlg",
+      "plus_code" : {
+         "compound_code" : "P2X8+VC New York, NY, USA",
+         "global_code" : "87G8P2X8+VC"
+      },
+      "reference" : "ChIJD2If7qlZwokREwGYp6YFZlg",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=390+5th+Ave,+New+York,+NY+10018,+USA&ftid=0x89c259a9ee1f620f:0x586605a6a7980113",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

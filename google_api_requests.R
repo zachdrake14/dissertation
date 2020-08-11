@@ -2,31 +2,61 @@ library(tidyverse)
 library(magrittr)
 library(jsonlite)
 library(httr)
+library(here)
 
-nearby_places_url <- "https://maps.googleapis.com/maps/api/place/findplacefromtext/json?"
-places_detail <- "https://maps.googleapis.com/maps/api/place/details/json?"
 key <- "AIzaSyB7lJ3rfPvqYp8xbHGUEkoSEBx86Qy1lls"
 
-get_nearbly_places <- GET(url = nearby_places_url,
-                          query = list(
-                            key = key,
-                            input = "2834 Lester Lee Ct, Falls Church, VA", 
-                            inputtype = "textquery"
-                          ))
+nyc_addresses <- read.csv(here('data/city_of_new_york.csv'))
+nyc_addresses %<>% 
+  mutate(full_address = paste(NUMBER, STREET, POSTCODE))
 
-response <- content(get_nearbly_places, as = "text", encoding = "UTF-8")
-
-df <- fromJSON(response, flatten = FALSE)
-
-home <- 'ChIJ4aJHU0RLtokRUHUqegwQv6k'
-
-get_places_details <- GET(url = places_detail,
-                          query = list(
-                            key = key,
-                            place_id = home
-                          ))
+test <- nyc_addresses[1:500,]
 
 
-response2 <- content(get_places_details, as = "text", encoding = "UTF-8")
+get_place_id <- function(key, address){
 
-df2 <- fromJSON(response2, flatten = FALSE)
+  output <- GET(url = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json?",
+      query = list(
+      key = key,
+      input = address, 
+      inputtype = "textquery"
+      )) %>%
+    content(as = "text", encoding = "UTF-8") %>%
+    fromJSON(flatten = TRUE)%>%
+    data.frame()
+
+  return(output)
+
+}
+
+
+place_id_bucket <- data.frame(matrix(ncol=2, nrow=0))
+colnames(place_id_bucket) <- c('place_id', 'status')
+
+for (row in 1:nrow(test)) {
+  
+  address<- test[row,]$full_address
+  print(address)
+  output <- get_place_id(key=key, address = address)
+  place_id_bucket <- rbind(place_id_bucket, output)
+  
+}
+
+
+get_place_details <- function(key, place_id){
+  
+  output <- GET(url = "https://maps.googleapis.com/maps/api/place/details/json?",
+      query = list(
+      key = key,
+      place_id = place_id
+      )) %>%
+    content(as = "text", encoding = "UTF-8") %>%
+    write(file=here(paste0("data/",place_id,".json")))
+  
+}
+
+for (row in 1:nrow(place_id_bucket)){
+  place_id <- place_id_bucket[row,]$place_id
+  get_place_details(key = key, place_id = place_id)
+}
+  

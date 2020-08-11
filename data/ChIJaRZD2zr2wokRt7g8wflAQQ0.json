@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "355",
+            "short_name" : "355",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Riverside Drive",
+            "short_name" : "Riverside Dr",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10025",
+            "short_name" : "10025",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e355 Riverside Dr\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10025\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "355 Riverside Dr, New York, NY 10025, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.80335110000001,
+            "lng" : -73.968976
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.80474743029151,
+               "lng" : -73.96774396970849
+            },
+            "southwest" : {
+               "lat" : 40.80204946970851,
+               "lng" : -73.9704419302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "355 Riverside Dr",
+      "place_id" : "ChIJaRZD2zr2wokRt7g8wflAQQ0",
+      "reference" : "ChIJaRZD2zr2wokRt7g8wflAQQ0",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=355+Riverside+Dr,+New+York,+NY+10025,+USA&ftid=0x89c2f63adb431669:0xd4140f9c13cb8b7",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

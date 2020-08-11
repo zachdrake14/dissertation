@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "89-43",
+            "short_name" : "89-43",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Gold Road",
+            "short_name" : "Gold Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jamaica",
+            "short_name" : "Jamaica",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11417",
+            "short_name" : "11417",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e89-43 Gold Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJamaica\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11417\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "89-43 Gold Rd, Jamaica, NY 11417, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.675077,
+            "lng" : -73.846215
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6763295302915,
+               "lng" : -73.8449367697085
+            },
+            "southwest" : {
+               "lat" : 40.6736315697085,
+               "lng" : -73.8476347302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "89-43 Gold Rd",
+      "place_id" : "ChIJ97XdP4tdwokR1mGc6ZOgD2k",
+      "plus_code" : {
+         "compound_code" : "M5G3+2G New York, NY, USA",
+         "global_code" : "87G8M5G3+2G"
+      },
+      "reference" : "ChIJ97XdP4tdwokR1mGc6ZOgD2k",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=89-43+Gold+Rd,+Jamaica,+NY+11417,+USA&ftid=0x89c25d8b3fddb5f7:0x690fa093e99c61d6",
+      "utc_offset" : -240,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}
+

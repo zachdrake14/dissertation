@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1277",
+            "short_name" : "1277",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Stadium Avenue",
+            "short_name" : "Stadium Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "East Bronx",
+            "short_name" : "East Bronx",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10465",
+            "short_name" : "10465",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "1345",
+            "short_name" : "1345",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1277 Stadium Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10465-1345\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "1277 Stadium Ave, The Bronx, NY 10465, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8389893,
+            "lng" : -73.8197704
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.84036098029149,
+               "lng" : -73.81829636970848
+            },
+            "southwest" : {
+               "lat" : 40.8376630197085,
+               "lng" : -73.8209943302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "63e2294f4effac2169eb9189da418e05cfa9f143",
+      "name" : "1277 Stadium Ave",
+      "place_id" : "ChIJI3sglUKLwokR7BfSG_MEukA",
+      "reference" : "ChIJI3sglUKLwokR7BfSG_MEukA",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=1277+Stadium+Ave,+The+Bronx,+NY+10465,+USA&ftid=0x89c28b4295207b23:0x40ba04f31bd217ec",
+      "utc_offset" : -240,
+      "vicinity" : "The Bronx"
+   },
+   "status" : "OK"
+}
+

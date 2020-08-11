@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "640",
+            "short_name" : "640",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "5th Avenue",
+            "short_name" : "5th Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10019",
+            "short_name" : "10019",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e640 5th Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10019\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "640 5th Ave, New York, NY 10019, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.75961119999999,
+            "lng" : -73.9769969
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7608058302915,
+               "lng" : -73.97546836970849
+            },
+            "southwest" : {
+               "lat" : 40.7581078697085,
+               "lng" : -73.9781663302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "73f2bf70c69693a3fe7d518e48bb2113a9aca156",
+      "name" : "640 5th Ave",
+      "place_id" : "ChIJA2_A_ftYwokR911RGDMddVI",
+      "reference" : "ChIJA2_A_ftYwokR911RGDMddVI",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=640+5th+Ave,+New+York,+NY+10019,+USA&ftid=0x89c258fbfdc06f03:0x52751d3318515df7",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

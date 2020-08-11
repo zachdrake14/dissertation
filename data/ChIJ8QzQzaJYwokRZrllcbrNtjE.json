@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1060",
+            "short_name" : "1060",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Park Avenue",
+            "short_name" : "Park Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10128",
+            "short_name" : "10128",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1060 Park Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10128\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "1060 Park Ave, New York, NY 10128, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7812136,
+            "lng" : -73.9570373
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7824896302915,
+               "lng" : -73.9555094697085
+            },
+            "southwest" : {
+               "lat" : 40.77979166970851,
+               "lng" : -73.95820743029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "55718f4c8f056a870917488c955eb13ff60a62a5",
+      "name" : "1060 Park Ave",
+      "place_id" : "ChIJ8QzQzaJYwokRZrllcbrNtjE",
+      "reference" : "ChIJ8QzQzaJYwokRZrllcbrNtjE",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=1060+Park+Ave,+New+York,+NY+10128,+USA&ftid=0x89c258a2cdd00cf1:0x31b6cdba7165b966",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

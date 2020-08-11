@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "124",
+            "short_name" : "124",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Roosevelt Avenue",
+            "short_name" : "Roosevelt Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Flushing",
+            "short_name" : "Flushing",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11368",
+            "short_name" : "11368",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e124 Roosevelt Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFlushing\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11368\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "124 Roosevelt Ave, Flushing, NY 11368, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7530179,
+            "lng" : -73.8508221
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7543653802915,
+               "lng" : -73.8494723197085
+            },
+            "southwest" : {
+               "lat" : 40.7516674197085,
+               "lng" : -73.85217028029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "124 Roosevelt Ave",
+      "place_id" : "ChIJjS8R-NxfwokRkAq35zVUzEM",
+      "plus_code" : {
+         "compound_code" : "Q43X+6M New York, NY, USA",
+         "global_code" : "87G8Q43X+6M"
+      },
+      "reference" : "ChIJjS8R-NxfwokRkAq35zVUzEM",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=124+Roosevelt+Ave,+Flushing,+NY+11368,+USA&ftid=0x89c25fdcf8112f8d:0x43cc5435e7b70a90",
+      "utc_offset" : -240,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}
+

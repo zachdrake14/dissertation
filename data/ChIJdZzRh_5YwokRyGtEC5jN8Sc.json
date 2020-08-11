@@ -1,0 +1,103 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "589",
+            "short_name" : "589",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "5th Avenue",
+            "short_name" : "5th Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10017",
+            "short_name" : "10017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e589 5th Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "589 5th Ave, New York, NY 10017, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7569466,
+            "lng" : -73.9778147
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.75837973029149,
+               "lng" : -73.97667581970849
+            },
+            "southwest" : {
+               "lat" : 40.7556817697085,
+               "lng" : -73.9793737802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "f5825e68069301242dd1eec24ebe24cff6b8c5cb",
+      "name" : "589 5th Ave",
+      "photos" : [
+         {
+            "height" : 4096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116964503472448754587\"\u003eEvangelina Trepat\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAhocruP4zbM3in1thSgagHJiHo3ieimUYY-9-ZIBYk5UXRdOGuzjPFrMousrrE7O4J_UfapRW6uEW2I3r0EVt7IJdOChBkarKRPNmTrxn5z3_50SBRE3zJ5chEiIWLDjHEhD5AhSNLL6lUms2EEKFYQVsGhRmh30hzNf-4orxKg4gnIKCsiMtEg",
+            "width" : 3072
+         },
+         {
+            "height" : 4096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116964503472448754587\"\u003eEvangelina Trepat\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAkeehperMMEX2EJl5ascf3LjnWTu55UN6Y41cm9A3tlyNq187XCAtoUxFMH4uJgXZR76jZ1HsC8eDWXOqMIm1pdA9nU-4kK5ojNUi32ViyOZ5CHT0DRhsL08J9_k1GSCNEhCO1OXn1zryAyhUKR_timXWGhS75b4QCf_7kS7JE5DRaXxleps5Bg",
+            "width" : 3072
+         },
+         {
+            "height" : 4096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116964503472448754587\"\u003eEvangelina Trepat\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAOUnOdTM7ggR18ChngcM_7U5Gthpl9_tmboSOll-tn9deFfY05OKsn9gnoJ8gsUuCD8jmkWHcUvC8h7TXP3rdR1rmkr0nT28QOeFtW5BgB6pOpEk-zflgI8Zhkb_Ro8VQEhA32ftsZ1HT-FlgzFXlTRJhGhRku5Nt70VH8wz7M_wxhPGUhOyBxg",
+            "width" : 3072
+         }
+      ],
+      "place_id" : "ChIJdZzRh_5YwokRyGtEC5jN8Sc",
+      "reference" : "ChIJdZzRh_5YwokRyGtEC5jN8Sc",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=589+5th+Ave,+New+York,+NY+10017,+USA&ftid=0x89c258fe87d19c75:0x27f1cd980b446bc8",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

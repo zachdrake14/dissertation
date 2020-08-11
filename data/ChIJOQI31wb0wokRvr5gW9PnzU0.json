@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "4672",
+            "short_name" : "4672",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Broadway",
+            "short_name" : "Broadway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10040",
+            "short_name" : "10040",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e4672 Broadway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10040\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "4672 Broadway, New York, NY 10040, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.863175,
+            "lng" : -73.929474
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.86449673029151,
+               "lng" : -73.9284044197085
+            },
+            "southwest" : {
+               "lat" : 40.86179876970851,
+               "lng" : -73.93110238029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "4672 Broadway",
+      "place_id" : "ChIJOQI31wb0wokRvr5gW9PnzU0",
+      "plus_code" : {
+         "compound_code" : "V37C+76 New York, NY, USA",
+         "global_code" : "87G8V37C+76"
+      },
+      "reference" : "ChIJOQI31wb0wokRvr5gW9PnzU0",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=4672+Broadway,+New+York,+NY+10040,+USA&ftid=0x89c2f406d7370239:0x4dcde7d35b60bebe",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

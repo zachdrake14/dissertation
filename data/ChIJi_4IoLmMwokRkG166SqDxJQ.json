@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2130",
+            "short_name" : "2130",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bartow Avenue",
+            "short_name" : "Bartow Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "East Bronx",
+            "short_name" : "East Bronx",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10475",
+            "short_name" : "10475",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2130 Bartow Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10475\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "2130 Bartow Ave, The Bronx, NY 10475, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.867333,
+            "lng" : -73.8272259
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8686084802915,
+               "lng" : -73.82583451970849
+            },
+            "southwest" : {
+               "lat" : 40.8659105197085,
+               "lng" : -73.8285324802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "524d7e826b16c1fd84659d1bd8910f96368639b5",
+      "name" : "2130 Bartow Ave",
+      "place_id" : "ChIJi_4IoLmMwokRkG166SqDxJQ",
+      "reference" : "ChIJi_4IoLmMwokRkG166SqDxJQ",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=2130+Bartow+Ave,+The+Bronx,+NY+10475,+USA&ftid=0x89c28cb9a008fe8b:0x94c4832ae97a6d90",
+      "utc_offset" : -240,
+      "vicinity" : "The Bronx"
+   },
+   "status" : "OK"
+}
+

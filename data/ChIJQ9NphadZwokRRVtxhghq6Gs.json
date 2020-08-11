@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "407",
+            "short_name" : "407",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Park Avenue South",
+            "short_name" : "Park Ave S",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10016",
+            "short_name" : "10016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e407 Park Ave S\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "407 Park Ave S, New York, NY 10016, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.74337209999999,
+            "lng" : -73.98372180000001
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7447624802915,
+               "lng" : -73.98247051970849
+            },
+            "southwest" : {
+               "lat" : 40.7420645197085,
+               "lng" : -73.98516848029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "dfe1d209e0179be1549dc2bf227efe9796c14456",
+      "name" : "407 Park Ave S",
+      "place_id" : "ChIJQ9NphadZwokRRVtxhghq6Gs",
+      "reference" : "ChIJQ9NphadZwokRRVtxhghq6Gs",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=407+Park+Ave+S,+New+York,+NY+10016,+USA&ftid=0x89c259a78569d343:0x6be86a0886715b45",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

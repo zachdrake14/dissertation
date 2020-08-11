@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "125",
+            "short_name" : "125",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Park Avenue",
+            "short_name" : "Park Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10017",
+            "short_name" : "10017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e125 Park Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "125 Park Ave, New York, NY 10017, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.751727,
+            "lng" : -73.97745069999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.75316443029149,
+               "lng" : -73.9763123197085
+            },
+            "southwest" : {
+               "lat" : 40.7504664697085,
+               "lng" : -73.9790102802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "a04e9550ea74aea00415993df7f74915227c8500",
+      "name" : "125 Park Ave",
+      "place_id" : "ChIJx_f3KwFZwokR0LOK6QyTHTk",
+      "reference" : "ChIJx_f3KwFZwokR0LOK6QyTHTk",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=125+Park+Ave,+New+York,+NY+10017,+USA&ftid=0x89c259012bf7f7c7:0x391d930ce98ab3d0",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

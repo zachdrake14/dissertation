@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "31-06",
+            "short_name" : "31-06",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Farrington Street",
+            "short_name" : "Farrington St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Flushing",
+            "short_name" : "Flushing",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11354",
+            "short_name" : "11354",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e31-06 Farrington St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFlushing\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11354\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "31-06 Farrington St, Flushing, NY 11354, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.76888949999999,
+            "lng" : -73.8342346
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.77020328029149,
+               "lng" : -73.83306886970848
+            },
+            "southwest" : {
+               "lat" : 40.7675053197085,
+               "lng" : -73.8357668302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "1a97959981f7e98694b777fff475347d72b0c2da",
+      "name" : "31-06 Farrington St",
+      "place_id" : "ChIJXYe19ANgwokR_JL9f56r8r0",
+      "plus_code" : {
+         "compound_code" : "Q598+H8 New York, NY, USA",
+         "global_code" : "87G8Q598+H8"
+      },
+      "reference" : "ChIJXYe19ANgwokR_JL9f56r8r0",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=31-06+Farrington+St,+Flushing,+NY+11354,+USA&ftid=0x89c26003f4b5875d:0xbdf2ab9e7ffd92fc",
+      "utc_offset" : -240,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}
+

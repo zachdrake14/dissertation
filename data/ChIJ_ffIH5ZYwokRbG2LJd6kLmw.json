@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "950",
+            "short_name" : "950",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Park Avenue",
+            "short_name" : "Park Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10028",
+            "short_name" : "10028",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "0320",
+            "short_name" : "0320",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e950 Park Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10028-0320\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "950 Park Ave, New York, NY 10028, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7775996,
+            "lng" : -73.9595628
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7788931802915,
+               "lng" : -73.9580810197085
+            },
+            "southwest" : {
+               "lat" : 40.7761952197085,
+               "lng" : -73.96077898029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "ed6d0026b2f341724fb1da80981c8d6c9e82d14b",
+      "name" : "950 Park Ave",
+      "place_id" : "ChIJ_ffIH5ZYwokRbG2LJd6kLmw",
+      "reference" : "ChIJ_ffIH5ZYwokRbG2LJd6kLmw",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=950+Park+Ave,+New+York,+NY+10028,+USA&ftid=0x89c258961fc8f7fd:0x6c2ea4de258b6d6c",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

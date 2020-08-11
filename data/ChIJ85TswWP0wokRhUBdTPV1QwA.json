@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "592",
+            "short_name" : "592",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East 178th Street",
+            "short_name" : "E 178th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "West Bronx",
+            "short_name" : "West Bronx",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10457",
+            "short_name" : "10457",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "4710",
+            "short_name" : "4710",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e592 E 178th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10457-4710\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "592 E 178th St, The Bronx, NY 10457, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8469401,
+            "lng" : -73.89327449999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8483396302915,
+               "lng" : -73.89189486970848
+            },
+            "southwest" : {
+               "lat" : 40.84564166970851,
+               "lng" : -73.8945928302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "b9079e93b0ac6afa7ec91e6d5a499a062686c6db",
+      "name" : "592 E 178th St",
+      "place_id" : "ChIJ85TswWP0wokRhUBdTPV1QwA",
+      "plus_code" : {
+         "compound_code" : "R4W4+QM The Bronx, NY, USA",
+         "global_code" : "87G8R4W4+QM"
+      },
+      "reference" : "ChIJ85TswWP0wokRhUBdTPV1QwA",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=592+E+178th+St,+The+Bronx,+NY+10457,+USA&ftid=0x89c2f463c1ec94f3:0x4375f54c5d4085",
+      "utc_offset" : -240,
+      "vicinity" : "The Bronx"
+   },
+   "status" : "OK"
+}
+

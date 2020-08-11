@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "759B",
+            "short_name" : "759B",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Saint Ann's Avenue",
+            "short_name" : "St Ann's Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Woodstock",
+            "short_name" : "Woodstock",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10456",
+            "short_name" : "10456",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e759B St Ann&#39;s Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10456\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "759B St Ann's Ave, The Bronx, NY 10456, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8204624,
+            "lng" : -73.91039479999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.82179273029151,
+               "lng" : -73.9089493197085
+            },
+            "southwest" : {
+               "lat" : 40.81909476970851,
+               "lng" : -73.9116472802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "24253c0f77848915b5aad2a4509d7c2cb7cd6194",
+      "name" : "759B St Ann's Ave",
+      "place_id" : "ChIJNQtFurX1wokRKHSj67878Ww",
+      "plus_code" : {
+         "compound_code" : "R3CQ+5R The Bronx, NY, USA",
+         "global_code" : "87G8R3CQ+5R"
+      },
+      "reference" : "ChIJNQtFurX1wokRKHSj67878Ww",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=759B+St+Ann%27s+Ave,+The+Bronx,+NY+10456,+USA&ftid=0x89c2f5b5ba450b35:0x6cf13bbfeba37428",
+      "utc_offset" : -240,
+      "vicinity" : "The Bronx"
+   },
+   "status" : "OK"
+}
+

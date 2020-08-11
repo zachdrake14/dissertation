@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "299",
+            "short_name" : "299",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Madison Avenue",
+            "short_name" : "Madison Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10017",
+            "short_name" : "10017",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "6298",
+            "short_name" : "6298",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e299 Madison Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10017-6298\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "299 Madison Ave, New York, NY 10017, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7521704,
+            "lng" : -73.97953219999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7535555802915,
+               "lng" : -73.97826971970849
+            },
+            "southwest" : {
+               "lat" : 40.7508576197085,
+               "lng" : -73.9809676802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "2593d88032e4d70d6e4f4e229e70a9a3be083cde",
+      "name" : "299 Madison Ave",
+      "place_id" : "ChIJ3fQgqAFZwokRpEI49T1T5K8",
+      "plus_code" : {
+         "compound_code" : "Q22C+V5 New York, NY, USA",
+         "global_code" : "87G8Q22C+V5"
+      },
+      "reference" : "ChIJ3fQgqAFZwokRpEI49T1T5K8",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=299+Madison+Ave,+New+York,+NY+10017,+USA&ftid=0x89c25901a820f4dd:0xafe4533df53842a4",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

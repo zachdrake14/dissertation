@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "233",
+            "short_name" : "233",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Madison Avenue",
+            "short_name" : "Madison Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10016",
+            "short_name" : "10016",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "2818",
+            "short_name" : "2818",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e233 Madison Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10016-2818\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "233 Madison Ave, New York, NY 10016, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.749649,
+            "lng" : -73.98114990000001
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7510704802915,
+               "lng" : -73.9799780197085
+            },
+            "southwest" : {
+               "lat" : 40.7483725197085,
+               "lng" : -73.9826759802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "d38ab17d5d4b61627d52b53797a9d7b85f6d971e",
+      "name" : "233 Madison Ave",
+      "place_id" : "ChIJK-5tNAdZwokRe_y5zEoXt5E",
+      "reference" : "ChIJK-5tNAdZwokRe_y5zEoXt5E",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=233+Madison+Ave,+New+York,+NY+10016,+USA&ftid=0x89c25907346dee2b:0x91b7174accb9fc7b",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

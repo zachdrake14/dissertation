@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2495",
+            "short_name" : "2495",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "2nd Avenue",
+            "short_name" : "2nd Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10035",
+            "short_name" : "10035",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "1404",
+            "short_name" : "1404",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2495 2nd Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10035-1404\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "2495 2nd Ave, New York, NY 10035, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8045097,
+            "lng" : -73.9329766
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8059230302915,
+               "lng" : -73.93157901970849
+            },
+            "southwest" : {
+               "lat" : 40.8032250697085,
+               "lng" : -73.9342769802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "2495 2nd Ave",
+      "place_id" : "ChIJEfDiVOD1wokRVagLLv7uAXM",
+      "plus_code" : {
+         "compound_code" : "R338+RR New York, NY, USA",
+         "global_code" : "87G8R338+RR"
+      },
+      "reference" : "ChIJEfDiVOD1wokRVagLLv7uAXM",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=2495+2nd+Ave,+New+York,+NY+10035,+USA&ftid=0x89c2f5e054e2f011:0x7301eefe2e0ba855",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

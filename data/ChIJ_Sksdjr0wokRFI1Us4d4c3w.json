@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "70",
+            "short_name" : "70",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East 167th Street",
+            "short_name" : "E 167th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Concourse",
+            "short_name" : "Concourse",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10452",
+            "short_name" : "10452",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e70 E 167th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10452\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "70 E 167th St, The Bronx, NY 10452, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.83503949999999,
+            "lng" : -73.9203328
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8365443302915,
+               "lng" : -73.91888901970849
+            },
+            "southwest" : {
+               "lat" : 40.8338463697085,
+               "lng" : -73.92158698029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "70 E 167th St",
+      "place_id" : "ChIJ_Sksdjr0wokRFI1Us4d4c3w",
+      "reference" : "ChIJ_Sksdjr0wokRFI1Us4d4c3w",
+      "scope" : "GOOGLE",
+      "types" : [ "subpremise" ],
+      "url" : "https://maps.google.com/?q=70+E+167th+St,+The+Bronx,+NY+10452,+USA&ftid=0x89c2f43a762c29fd:0x7c737887b3548d14",
+      "utc_offset" : -240,
+      "vicinity" : "The Bronx"
+   },
+   "status" : "OK"
+}
+

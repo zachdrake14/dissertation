@@ -1,0 +1,70 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1431 Broadway",
+            "short_name" : "1431 Broadway",
+            "types" : []
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10018",
+            "short_name" : "10018",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "1431 Broadway, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10018\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "1431 Broadway, New York, NY 10018, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7545926,
+            "lng" : -73.98731599999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7630444,
+               "lng" : -73.9713086
+            },
+            "southwest" : {
+               "lat" : 40.7461397,
+               "lng" : -74.0033234
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2eff51d40718b5a77736f8a947cf21bd2033071a",
+      "name" : "1431 Broadway",
+      "place_id" : "ChIJI3ewP6tZwokR-6H6nFi7y8E",
+      "reference" : "ChIJI3ewP6tZwokR-6H6nFi7y8E",
+      "url" : "https://maps.google.com/?q=1431+Broadway&ftid=0x89c259ab3fb07723:0xc1cbbb589cfaa1fb",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

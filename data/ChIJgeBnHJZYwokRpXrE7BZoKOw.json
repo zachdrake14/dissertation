@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "940",
+            "short_name" : "940",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Park Avenue",
+            "short_name" : "Park Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10028",
+            "short_name" : "10028",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "0311",
+            "short_name" : "0311",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e940 Park Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10028-0311\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "940 Park Ave, New York, NY 10028, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7772595,
+            "lng" : -73.9598843
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7785412302915,
+               "lng" : -73.9583740697085
+            },
+            "southwest" : {
+               "lat" : 40.7758432697085,
+               "lng" : -73.9610720302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "a6bc910e86d4b6f76dfcd3af2e86b48710fcd298",
+      "name" : "940 Park Ave",
+      "place_id" : "ChIJgeBnHJZYwokRpXrE7BZoKOw",
+      "reference" : "ChIJgeBnHJZYwokRpXrE7BZoKOw",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=940+Park+Ave,+New+York,+NY+10028,+USA&ftid=0x89c258961c67e081:0xec286816ecc47aa5",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "345",
+            "short_name" : "345",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Riverside Drive",
+            "short_name" : "Riverside Dr",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10025",
+            "short_name" : "10025",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e345 Riverside Dr\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10025\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "345 Riverside Dr, New York, NY 10025, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.80263300000001,
+            "lng" : -73.96941699999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8040431802915,
+               "lng" : -73.96821176970849
+            },
+            "southwest" : {
+               "lat" : 40.8013452197085,
+               "lng" : -73.9709097302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "345 Riverside Dr",
+      "place_id" : "ChIJL8thyzr2wokRrzJY7uaGtY0",
+      "plus_code" : {
+         "compound_code" : "R23J+36 New York, NY, USA",
+         "global_code" : "87G8R23J+36"
+      },
+      "reference" : "ChIJL8thyzr2wokRrzJY7uaGtY0",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=345+Riverside+Dr,+New+York,+NY+10025,+USA&ftid=0x89c2f63acb61cb2f:0x8db586e6ee5832af",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

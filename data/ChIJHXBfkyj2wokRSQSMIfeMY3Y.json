@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "777",
+            "short_name" : "777",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "West End Avenue",
+            "short_name" : "West End Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10025",
+            "short_name" : "10025",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "5551",
+            "short_name" : "5551",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e777 West End Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10025-5551\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "777 West End Ave, New York, NY 10025, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.79655959999999,
+            "lng" : -73.9726702
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7979848302915,
+               "lng" : -73.97128231970851
+            },
+            "southwest" : {
+               "lat" : 40.7952868697085,
+               "lng" : -73.97398028029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "ccd822a14c41536232846f78f5fe2aee58795cc4",
+      "name" : "777 West End Ave",
+      "place_id" : "ChIJHXBfkyj2wokRSQSMIfeMY3Y",
+      "reference" : "ChIJHXBfkyj2wokRSQSMIfeMY3Y",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=777+West+End+Ave,+New+York,+NY+10025,+USA&ftid=0x89c2f628935f701d:0x76638cf7218c0449",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "763",
+            "short_name" : "763",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Saint Ann's Avenue",
+            "short_name" : "St Ann's Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Woodstock",
+            "short_name" : "Woodstock",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10451",
+            "short_name" : "10451",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e763 St Ann&#39;s Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10451\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "763 St Ann's Ave, The Bronx, NY 10451, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.82018240000001,
+            "lng" : -73.9109466
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8214712802915,
+               "lng" : -73.90928641970849
+            },
+            "southwest" : {
+               "lat" : 40.81877331970851,
+               "lng" : -73.91198438029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "763 St Ann's Ave",
+      "place_id" : "ChIJm0nvv7X1wokR2EwOioZEBK8",
+      "plus_code" : {
+         "compound_code" : "R3CQ+3J The Bronx, NY, USA",
+         "global_code" : "87G8R3CQ+3J"
+      },
+      "reference" : "ChIJm0nvv7X1wokR2EwOioZEBK8",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=763+St+Ann%27s+Ave,+The+Bronx,+NY+10451,+USA&ftid=0x89c2f5b5bfef499b:0xaf0444868a0e4cd8",
+      "utc_offset" : -240,
+      "vicinity" : "The Bronx"
+   },
+   "status" : "OK"
+}
+
