@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "195-3",
+            "short_name" : "195-3",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Linden Boulevard",
+            "short_name" : "Linden Blvd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "St. Albans",
+            "short_name" : "St. Albans",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11412",
+            "short_name" : "11412",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e195-3 Linden Blvd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSt. Albans\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11412\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "195-3 Linden Blvd, St. Albans, NY 11412, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6934245,
+            "lng" : -73.75687119999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.69466578029149,
+               "lng" : -73.75547036970849
+            },
+            "southwest" : {
+               "lat" : 40.6919678197085,
+               "lng" : -73.7581683302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "fc68fc1625ab49ce31c808ecb88c7d5188659271",
+      "name" : "195-3 Linden Blvd",
+      "place_id" : "ChIJOck0gVphwokRSWHe1RLLGQM",
+      "plus_code" : {
+         "compound_code" : "M6VV+97 New York, NY, USA",
+         "global_code" : "87G8M6VV+97"
+      },
+      "reference" : "ChIJOck0gVphwokRSWHe1RLLGQM",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=195-3+Linden+Blvd,+St.+Albans,+NY+11412,+USA&ftid=0x89c2615a8134c939:0x319cb12d5de6149",
+      "utc_offset" : -240,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}
+

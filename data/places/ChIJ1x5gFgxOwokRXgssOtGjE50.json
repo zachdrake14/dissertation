@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "40",
+            "short_name" : "40",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Skinner Lane",
+            "short_name" : "Skinner Ln",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Randall Manor",
+            "short_name" : "Randall Manor",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Staten Island",
+            "short_name" : "Staten Island",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Richmond County",
+            "short_name" : "Richmond County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10310",
+            "short_name" : "10310",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e40 Skinner Ln\u003c/span\u003e, \u003cspan class=\"locality\"\u003eStaten Island\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10310\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "40 Skinner Ln, Staten Island, NY 10310, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.63961339999999,
+            "lng" : -74.11683739999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6411659302915,
+               "lng" : -74.1155255697085
+            },
+            "southwest" : {
+               "lat" : 40.6384679697085,
+               "lng" : -74.1182235302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "40 Skinner Ln",
+      "place_id" : "ChIJ1x5gFgxOwokRXgssOtGjE50",
+      "plus_code" : {
+         "compound_code" : "JVQM+R7 Staten Island, NY, USA",
+         "global_code" : "87G7JVQM+R7"
+      },
+      "reference" : "ChIJ1x5gFgxOwokRXgssOtGjE50",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=40+Skinner+Ln,+Staten+Island,+NY+10310,+USA&ftid=0x89c24e0c16601ed7:0x9d13a3d13a2c0b5e",
+      "utc_offset" : -240,
+      "vicinity" : "Staten Island"
+   },
+   "status" : "OK"
+}
+

@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "858",
+            "short_name" : "858",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "West End Avenue",
+            "short_name" : "West End Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10025",
+            "short_name" : "10025",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "4986",
+            "short_name" : "4986",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e858 West End Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10025-4986\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "858 West End Ave, New York, NY 10025, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.79886,
+            "lng" : -73.9702159
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.80026003029149,
+               "lng" : -73.9689893197085
+            },
+            "southwest" : {
+               "lat" : 40.7975620697085,
+               "lng" : -73.9716872802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "5eb8063c286bb430b6e38a8eb09e85a787ebe9f4",
+      "name" : "858 West End Ave",
+      "place_id" : "ChIJ7_2T7CX2wokRh60srX00rmY",
+      "plus_code" : {
+         "compound_code" : "Q2XH+GW New York, NY, USA",
+         "global_code" : "87G8Q2XH+GW"
+      },
+      "reference" : "ChIJ7_2T7CX2wokRh60srX00rmY",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=858+West+End+Ave,+New+York,+NY+10025,+USA&ftid=0x89c2f625ec93fdef:0x66ae347dad2cad87",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

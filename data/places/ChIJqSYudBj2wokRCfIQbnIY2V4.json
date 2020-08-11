@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "478",
+            "short_name" : "478",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Central Park West",
+            "short_name" : "Central Park West",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10025",
+            "short_name" : "10025",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e478 Central Park West\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10025\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "478 Central Park West, New York, NY 10025, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.79960000000001,
+            "lng" : -73.95927999999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8008905802915,
+               "lng" : -73.9577921197085
+            },
+            "southwest" : {
+               "lat" : 40.79819261970851,
+               "lng" : -73.96049008029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "478 Central Park West",
+      "place_id" : "ChIJqSYudBj2wokRCfIQbnIY2V4",
+      "plus_code" : {
+         "compound_code" : "Q2XR+R7 New York, NY, USA",
+         "global_code" : "87G8Q2XR+R7"
+      },
+      "reference" : "ChIJqSYudBj2wokRCfIQbnIY2V4",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=478+Central+Park+West,+New+York,+NY+10025,+USA&ftid=0x89c2f618742e26a9:0x5ed918726e10f209",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

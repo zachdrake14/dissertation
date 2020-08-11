@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1216",
+            "short_name" : "1216",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "5th Avenue",
+            "short_name" : "5th Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10029",
+            "short_name" : "10029",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1216 5th Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10029\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "1216 5th Ave, New York, NY 10029, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7918853,
+            "lng" : -73.9525805
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7932812302915,
+               "lng" : -73.95134341970849
+            },
+            "southwest" : {
+               "lat" : 40.7905832697085,
+               "lng" : -73.9540413802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "1216 5th Ave",
+      "place_id" : "ChIJhYAYyR32wokRroh83aYARCs",
+      "plus_code" : {
+         "compound_code" : "Q2RW+QX New York, NY, USA",
+         "global_code" : "87G8Q2RW+QX"
+      },
+      "reference" : "ChIJhYAYyR32wokRroh83aYARCs",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=1216+5th+Ave,+New+York,+NY+10029,+USA&ftid=0x89c2f61dc9188085:0x2b4400a6dd7c88ae",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "675",
+            "short_name" : "675",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "3rd Avenue",
+            "short_name" : "3rd Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10017",
+            "short_name" : "10017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e675 3rd Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "675 3rd Ave, New York, NY 10017, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.751077,
+            "lng" : -73.97380219999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7524106802915,
+               "lng" : -73.97267161970849
+            },
+            "southwest" : {
+               "lat" : 40.7497127197085,
+               "lng" : -73.9753695802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "5d9f74a347c6886b87e3450d0e0ccd82559c5db1",
+      "name" : "675 3rd Ave",
+      "place_id" : "ChIJJ57MBgNZwokRCGMqOVNDr6o",
+      "reference" : "ChIJJ57MBgNZwokRCGMqOVNDr6o",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=675+3rd+Ave,+New+York,+NY+10017,+USA&ftid=0x89c2590306cc9e27:0xaaaf4353392a6308",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

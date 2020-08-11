@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "560",
+            "short_name" : "560",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Concord Avenue",
+            "short_name" : "Concord Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Woodstock",
+            "short_name" : "Woodstock",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10455",
+            "short_name" : "10455",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "3122",
+            "short_name" : "3122",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e560 Concord Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10455-3122\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "560 Concord Ave, The Bronx, NY 10455, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8133449,
+            "lng" : -73.9078272
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8147171302915,
+               "lng" : -73.90658751970848
+            },
+            "southwest" : {
+               "lat" : 40.8120191697085,
+               "lng" : -73.9092854802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "bc54d76c47e6a5579a308c25e2622aa430aed6d9",
+      "name" : "560 Concord Ave",
+      "place_id" : "ChIJkaEI4bn1wokRTSQA-4CTaSA",
+      "plus_code" : {
+         "compound_code" : "R37R+8V The Bronx, NY, USA",
+         "global_code" : "87G8R37R+8V"
+      },
+      "reference" : "ChIJkaEI4bn1wokRTSQA-4CTaSA",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=560+Concord+Ave,+The+Bronx,+NY+10455,+USA&ftid=0x89c2f5b9e108a191:0x20699380fb00244d",
+      "utc_offset" : -240,
+      "vicinity" : "The Bronx"
+   },
+   "status" : "OK"
+}
+

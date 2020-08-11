@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1294",
+            "short_name" : "1294",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Morris Avenue",
+            "short_name" : "Morris Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "West Bronx",
+            "short_name" : "West Bronx",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10456",
+            "short_name" : "10456",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "1402",
+            "short_name" : "1402",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1294 Morris Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10456-1402\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "1294 Morris Ave, The Bronx, NY 10456, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8353353,
+            "lng" : -73.9127355
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8367040802915,
+               "lng" : -73.9114452197085
+            },
+            "southwest" : {
+               "lat" : 40.8340061197085,
+               "lng" : -73.9141431802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "1294 Morris Ave",
+      "place_id" : "EikxMjk0IE1vcnJpcyBBdmUsIFRoZSBCcm9ueCwgTlkgMTA0NTYsIFVTQSIbEhkKFAoSCeu6cH9H9MKJETMrDKsOACDMEI4K",
+      "reference" : "EikxMjk0IE1vcnJpcyBBdmUsIFRoZSBCcm9ueCwgTlkgMTA0NTYsIFVTQSIbEhkKFAoSCeu6cH9H9MKJETMrDKsOACDMEI4K",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=1294+Morris+Ave,+The+Bronx,+NY+10456,+USA&ftid=0x89c2f4477f70baeb:0xf86de212e434d224",
+      "utc_offset" : -240,
+      "vicinity" : "The Bronx"
+   },
+   "status" : "OK"
+}
+

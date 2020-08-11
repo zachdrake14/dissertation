@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "58",
+            "short_name" : "58",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenue O",
+            "short_name" : "Avenue O",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bensonhurst",
+            "short_name" : "Bensonhurst",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11204",
+            "short_name" : "11204",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e58 Avenue O\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11204\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "58 Avenue O, Brooklyn, NY 11204, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6101111,
+            "lng" : -73.98284219999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6115715802915,
+               "lng" : -73.98151521970848
+            },
+            "southwest" : {
+               "lat" : 40.6088736197085,
+               "lng" : -73.98421318029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "ee5de088dffc02ac19d88012c5fc43e973114749",
+      "name" : "58 Avenue O",
+      "place_id" : "ChIJARHRdeJEwokRC8ry_ysL8yw",
+      "reference" : "ChIJARHRdeJEwokRC8ry_ysL8yw",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=58+Avenue+O,+Brooklyn,+NY+11204,+USA&ftid=0x89c244e275d11101:0x2cf30b2bfff2ca0b",
+      "utc_offset" : -240,
+      "vicinity" : "Brooklyn"
+   },
+   "status" : "OK"
+}
+

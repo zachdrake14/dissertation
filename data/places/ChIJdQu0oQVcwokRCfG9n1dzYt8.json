@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "164",
+            "short_name" : "164",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Central Avenue",
+            "short_name" : "Central Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bushwick",
+            "short_name" : "Bushwick",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11221",
+            "short_name" : "11221",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e164 Central Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11221\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "164 Central Ave, Brooklyn, NY 11221, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.699098,
+            "lng" : -73.92736599999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7005242302915,
+               "lng" : -73.92593911970849
+            },
+            "southwest" : {
+               "lat" : 40.6978262697085,
+               "lng" : -73.92863708029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "6cbcb02a7855105775a331a9914f96e07fb763dd",
+      "name" : "164 Central Ave",
+      "place_id" : "ChIJdQu0oQVcwokRCfG9n1dzYt8",
+      "plus_code" : {
+         "compound_code" : "M3XF+J3 Brooklyn, NY, USA",
+         "global_code" : "87G8M3XF+J3"
+      },
+      "reference" : "ChIJdQu0oQVcwokRCfG9n1dzYt8",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=164+Central+Ave,+Brooklyn,+NY+11221,+USA&ftid=0x89c25c05a1b40b75:0xdf6273579fbdf109",
+      "utc_offset" : -240,
+      "vicinity" : "Brooklyn"
+   },
+   "status" : "OK"
+}
+

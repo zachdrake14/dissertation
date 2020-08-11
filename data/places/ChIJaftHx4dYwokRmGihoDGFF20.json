@@ -1,0 +1,100 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "80",
+            "short_name" : "80",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Riverside Drive",
+            "short_name" : "Riverside Dr",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10024",
+            "short_name" : "10024",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "5725",
+            "short_name" : "5725",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e80 Riverside Dr\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10024-5725\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "80 Riverside Dr, New York, NY 10024, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7856047,
+            "lng" : -73.98169439999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.78701068029149,
+               "lng" : -73.98044171970849
+            },
+            "southwest" : {
+               "lat" : 40.7843127197085,
+               "lng" : -73.98313968029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "c46ae43947db01fd2df391359b7a9681a389d23f",
+      "name" : "80 Riverside Dr",
+      "photos" : [
+         {
+            "height" : 5344,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110673059695234601182\"\u003eSherri Fleming\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAP4kvlODtzYEckER6PSR5WwuTlOWsJnmLNqz6cZKBZ0L9-bMtoajZLCwKdRr4_0TYUzE_3mcr3EuqNu3eYOYyniX-2Im1iHQf_T6CbqKsAA6-MTUrWqRgHcTM5kcXyQ8gEhBg_PRW-EGI8sDVfYAwXcFvGhTTRd58qKEZWPFCRLAdt2W4US-mhg",
+            "width" : 3006
+         },
+         {
+            "height" : 5344,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110673059695234601182\"\u003eSherri Fleming\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAEBI0xpEjk1oyVD-dfWwmJwtfUFI_sZGaWWSuCC3iLkrdYir5bRPjKLPYC2hOZe9rtY1s1bxp-YZTuZgxQVrS4bIyG0B4sYG_Mm1LMrhLwr8CCEM50L8kxgX_uVQYmcc6EhBeiywSJddlyRS8228TIqmSGhTbiKYuygdL2sSIGm0BOQF6jnHVjw",
+            "width" : 3006
+         }
+      ],
+      "place_id" : "ChIJaftHx4dYwokRmGihoDGFF20",
+      "reference" : "ChIJaftHx4dYwokRmGihoDGFF20",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=80+Riverside+Dr,+New+York,+NY+10024,+USA&ftid=0x89c25887c747fb69:0x6d178531a0a16898",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

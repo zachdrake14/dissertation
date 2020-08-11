@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "92-19",
+            "short_name" : "92-19",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "101st Avenue",
+            "short_name" : "101st Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jamaica",
+            "short_name" : "Jamaica",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11416",
+            "short_name" : "11416",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e92-19 101st Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJamaica\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11416\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "92-19 101st Ave, Jamaica, NY 11416, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.68396399999999,
+            "lng" : -73.847882
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.68521473029149,
+               "lng" : -73.84648491970849
+            },
+            "southwest" : {
+               "lat" : 40.68251676970849,
+               "lng" : -73.84918288029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "92-19 101st Ave",
+      "place_id" : "ChIJcVJn1fBdwokReUIMvkB5jfI",
+      "plus_code" : {
+         "compound_code" : "M5M2+HR New York, NY, USA",
+         "global_code" : "87G8M5M2+HR"
+      },
+      "reference" : "ChIJcVJn1fBdwokReUIMvkB5jfI",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=92-19+101st+Ave,+Jamaica,+NY+11416,+USA&ftid=0x89c25df0d5675271:0xf28d7940be0c4279",
+      "utc_offset" : -240,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}
+

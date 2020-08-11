@@ -1,0 +1,118 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "500",
+            "short_name" : "500",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Park Avenue",
+            "short_name" : "Park Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10022",
+            "short_name" : "10022",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e500 Park Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10022\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "500 Park Ave, New York, NY 10022, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7629604,
+            "lng" : -73.9705452
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7641993302915,
+               "lng" : -73.96894176970849
+            },
+            "southwest" : {
+               "lat" : 40.7615013697085,
+               "lng" : -73.97163973029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "500 Park Ave",
+      "photos" : [
+         {
+            "height" : 1041,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113306015176015142405\"\u003eAlan Fintz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAWS9COhl8KtU9fKaXX_Z5-xDHCPNlhQNpkDWsij0acgp9ckCW75wP45ryyW5tvo8cXkC75jwDD1VjvFW7IpYXBaTXKSVj0dGCxl4M45CdEz3E42xUrL7fb8SCKyOBnT2GEhCfb4vrNRD_FpImVcdP7qtTGhRCdMpydnqLviTDo5Nx_mI7MCSfzg",
+            "width" : 586
+         },
+         {
+            "height" : 4096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105738985286614860566\"\u003eGabriel Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA4Xx4DHOzcguGmW3wogJ2zwPyMe7l2XyZSI5VhNTfnPbbdzcEXBun2iKWw4_epSvOHbx-TG1n6o7cGi9Nolj7ezZBlOYltMTbP_1tKdoMqJef2ijM31_U3F-_4nF0uFhKEhC0QmJOaWg6emmBVUMXLvcSGhRquoW9xYv3IiMU8UAETVjjr-c1kA",
+            "width" : 2304
+         },
+         {
+            "height" : 4096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105738985286614860566\"\u003eGabriel Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAZpQbWG8r18dEjMHWexx7-GffdC3mCJfkHjWxkxjIV9KAXJV4jm8LkCSLXXeKMPL5bXKOx_Cq5B6bUVuCCuk_naZIrjX5PqCKxFFjh93Cdm-tTqpN_JTzpWT7taQ2IPWwEhD2ypWtM6qdI6RBpjEyKN4GGhR86muvn9wk2sSnEcA0sfp2v81geQ",
+            "width" : 2304
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113306015176015142405\"\u003eAlan Fintz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAW3-h1LYaAYVpBkO-73lHjBUda96siZHcil7QoGgAyYkmNABiix4kDMnsN4qdVrg5jTHZeWr86DfK_00KVf90ElgKTfv02ZQE00kQfRtoaIUG1TlhtKvNUU8fF7E0IWaVEhBRKXMWDSFqSPXOEwxZ9zzYGhSZo6qObf-F-tCtMOrruquHGDFlFg",
+            "width" : 2988
+         },
+         {
+            "height" : 958,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113306015176015142405\"\u003eAlan Fintz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAK51SjQM8QHtzaXvaiywdDgLFg3sN-K_fxd4EIo6DaMAAeCJfFgj6FZxY-OxDS23QF46mcPHb0FDga7yBKCnapPirgTZxZ2cN11OMoSbHPYe5QyV8mDfvKbVt2VlwkjOOEhAZ1Qf2jHIf979vAjnlvgAHGhQV4_ht0U5m7CbngRrCHvrnXnqgsw",
+            "width" : 375
+         }
+      ],
+      "place_id" : "ChIJmbmlUeVYwokRw2_x6TKmVMI",
+      "reference" : "ChIJmbmlUeVYwokRw2_x6TKmVMI",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=500+Park+Ave,+New+York,+NY+10022,+USA&ftid=0x89c258e551a5b999:0xc254a632e9f16fc3",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

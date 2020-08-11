@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "103-03",
+            "short_name" : "103-03",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "223rd Street",
+            "short_name" : "223rd St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jamaica",
+            "short_name" : "Jamaica",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11429",
+            "short_name" : "11429",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e103-03 223rd St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJamaica\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11429\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "103-03 223rd St, Jamaica, NY 11429, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.71126599999999,
+            "lng" : -73.731245
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.71265478029149,
+               "lng" : -73.73005621970849
+            },
+            "southwest" : {
+               "lat" : 40.70995681970849,
+               "lng" : -73.73275418029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "012ce42bf33f3c51f63074cab83563865929f78f",
+      "name" : "103-03 223rd St",
+      "place_id" : "ChIJM8OKI89jwokRucSVCCTrPXk",
+      "plus_code" : {
+         "compound_code" : "P769+GG New York, NY, USA",
+         "global_code" : "87G8P769+GG"
+      },
+      "reference" : "ChIJM8OKI89jwokRucSVCCTrPXk",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=103-03+223rd+St,+Jamaica,+NY+11429,+USA&ftid=0x89c263cf238ac333:0x793deb240895c4b9",
+      "utc_offset" : -240,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}
+

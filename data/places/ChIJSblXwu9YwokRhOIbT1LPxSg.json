@@ -1,0 +1,126 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "667",
+            "short_name" : "667",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Madison Avenue",
+            "short_name" : "Madison Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10065",
+            "short_name" : "10065",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e667 Madison Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10065\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "667 Madison Ave, New York, NY 10065, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7644359,
+            "lng" : -73.97019949999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7658818302915,
+               "lng" : -73.96907781970849
+            },
+            "southwest" : {
+               "lat" : 40.7631838697085,
+               "lng" : -73.97177578029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "667 Madison Ave",
+      "photos" : [
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109570231286430724648\"\u003eNrupesh NYC\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAvTO_bxsMVEptMGxt3XnLorYVhGQj0YbAcr0xHzPnbtyTht6w-HtBbu3tGkfRqu0TqauKHNb4_gX46U3k15ACHqBuV3tXIwOy8KBTMWVNS6BlUsEeo2OtzPuxlYfrxQaoEhCpo78xem1LKJ4ACcIem8qMGhR03MK4iViYN-j5vANT2SHnqvuSzQ",
+            "width" : 2268
+         },
+         {
+            "height" : 1280,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104596856248078658268\"\u003eRouslan Valonen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAD41CIgdiP_Td3Z6dhhd5V4rE3e3JphNCGI3ziHgK2fY2KwFw9u6ErCpQAsORTcuOQwBQZ4dO71A0zSXH76WdXXqZCHoU1oobuFLZuKGXaPFudBB6mdUs8N9jC-UqVH4aEhC4BeDJiDwM2Fk3D6Sxho1tGhQPE9maYL5ZgdX1ue8Q9wS1GQAJxg",
+            "width" : 961
+         },
+         {
+            "height" : 1280,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104596856248078658268\"\u003eRouslan Valonen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAyXmU6s5m9fApUv994MYG5bxDR3udbkUfm4OLfP4G_cfte-h1Tq_ltCykQsl9mRYq03xWQ1YvTKH4rT21OPxnkdqYIS4ApC--NrAYLE7AYWJ9z9_ynLkBCEvWJYD2MHcZEhCyt6xQrK1xNs73Cgwr2E3rGhRC_vL7EZZUJ1WEHVlmF9E-3z0Mgw",
+            "width" : 855
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113306015176015142405\"\u003eAlan Fintz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAaS9qN88Uaz2FetIBoIfoQa23xksESAR99oWr4r_lj_4u-VEMQ3E2MWwqWxK7VU7mA7U8WcwntZV09eHBx2OJR-y4udlk8sZwj31Zd23Oy3eiAfRWJDf-Ot2CwnEAy1vuEhBGtsrpDKv-mcINsP2HZFOnGhRQ1NwiZvtSMQtGHjCikUP98BjGgQ",
+            "width" : 2988
+         },
+         {
+            "height" : 1070,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104596856248078658268\"\u003eRouslan Valonen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA2tMPgeEU3Bs6EJFxPLQ1EsL_VUW6YxEy6En0EJJ59iKCTLl-NPvfmJsC-XnBU3AW5jX_kFn90whRKQOqM0G29boAZMrZn4notx-cMVFu--Lpi-8KdBaOpxHYqXnPJokSEhCjm3DmrmBoYqMxBCs-Pv8MGhTo2IdT4oau5Kj4nUpc_vXBrbhHNg",
+            "width" : 1280
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109570231286430724648\"\u003eNrupesh NYC\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAtoToVAfIbx483js4U1HBPrRiP-JNHGHZWFq2SOPxuilX_FVeuGbfoW3w2Hld-GCGFJ9HnGgx02MT88fS_VwGUrQiLrP2M1YROTUr_WY8IqumVeqvCIUeavwmqc5z4lrfEhBT-pZiLMw7js6ooEVA0PC7GhRAQ_KjhqYObPrYMIRmUnFIpu852w",
+            "width" : 2268
+         }
+      ],
+      "place_id" : "ChIJSblXwu9YwokRhOIbT1LPxSg",
+      "reference" : "ChIJSblXwu9YwokRhOIbT1LPxSg",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=667+Madison+Ave,+New+York,+NY+10065,+USA&ftid=0x89c258efc257b949:0x28c5cf524f1be284",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

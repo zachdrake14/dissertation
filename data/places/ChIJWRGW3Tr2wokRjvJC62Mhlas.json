@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "360",
+            "short_name" : "360",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Riverside Drive",
+            "short_name" : "Riverside Dr",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10025",
+            "short_name" : "10025",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e360 Riverside Dr\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10025\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "360 Riverside Dr, New York, NY 10025, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8036014,
+            "lng" : -73.96883819999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8049917302915,
+               "lng" : -73.96759801970849
+            },
+            "southwest" : {
+               "lat" : 40.8022937697085,
+               "lng" : -73.97029598029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "360 Riverside Dr",
+      "place_id" : "ChIJWRGW3Tr2wokRjvJC62Mhlas",
+      "reference" : "ChIJWRGW3Tr2wokRjvJC62Mhlas",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=360+Riverside+Dr,+New+York,+NY+10025,+USA&ftid=0x89c2f63add961159:0xab952163eb42f28e",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

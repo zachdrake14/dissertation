@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "450",
+            "short_name" : "450",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Front Street",
+            "short_name" : "Front St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Stapleton Heights",
+            "short_name" : "Stapleton Heights",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Staten Island",
+            "short_name" : "Staten Island",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Richmond County",
+            "short_name" : "Richmond County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10304",
+            "short_name" : "10304",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "3823",
+            "short_name" : "3823",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e450 Front St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eStaten Island\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10304-3823\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "450 Front St, Staten Island, NY 10304, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.626225,
+            "lng" : -74.07456449999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6276006302915,
+               "lng" : -74.0729469697085
+            },
+            "southwest" : {
+               "lat" : 40.6249026697085,
+               "lng" : -74.0756449302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "450 Front St",
+      "place_id" : "ChIJRcf29rRPwokR1BSkUt1mLAo",
+      "reference" : "ChIJRcf29rRPwokR1BSkUt1mLAo",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=450+Front+St,+Staten+Island,+NY+10304,+USA&ftid=0x89c24fb4f6f6c745:0xa2c66dd52a414d4",
+      "utc_offset" : -240,
+      "vicinity" : "Staten Island"
+   },
+   "status" : "OK"
+}
+

@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "130",
+            "short_name" : "130",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East 37th Street",
+            "short_name" : "E 37th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10016",
+            "short_name" : "10016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e130 E 37th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "130 E 37th St, New York, NY 10016, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.748232,
+            "lng" : -73.978572
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7496431302915,
+               "lng" : -73.9771769197085
+            },
+            "southwest" : {
+               "lat" : 40.7469451697085,
+               "lng" : -73.9798748802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "acf09a41425b7835b1607961f83378dfb967eb16",
+      "name" : "130 E 37th St",
+      "place_id" : "ChIJl1hJlQZZwokRfIi8uqJLz34",
+      "plus_code" : {
+         "compound_code" : "P2XC+7H New York, NY, USA",
+         "global_code" : "87G8P2XC+7H"
+      },
+      "reference" : "ChIJl1hJlQZZwokRfIi8uqJLz34",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=130+E+37th+St,+New+York,+NY+10016,+USA&ftid=0x89c2590695495897:0x7ecf4ba2babc887c",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

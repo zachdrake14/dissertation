@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "168-01",
+            "short_name" : "168-01",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Hillside Avenue",
+            "short_name" : "Hillside Avenue",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jamaica",
+            "short_name" : "Jamaica",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11432",
+            "short_name" : "11432",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e168-01 Hillside Avenue\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJamaica\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11432\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "168-01 Hillside Avenue, Jamaica, NY 11432, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7103191,
+            "lng" : -73.7947367
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7115648802915,
+               "lng" : -73.79331636970849
+            },
+            "southwest" : {
+               "lat" : 40.7088669197085,
+               "lng" : -73.7960143302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "ca4be9a0de0ff5bcb302865b82f8e84a4c5d16b2",
+      "name" : "168-01 Hillside Avenue",
+      "place_id" : "ChIJ3Z2J1x9hwokRab05HG7GFtI",
+      "reference" : "ChIJ3Z2J1x9hwokRab05HG7GFtI",
+      "scope" : "GOOGLE",
+      "types" : [ "subpremise" ],
+      "url" : "https://maps.google.com/?q=168-01+Hillside+Avenue,+Jamaica,+NY+11432,+USA&ftid=0x89c2611fd7899ddd:0xd216c66e1c39bd69",
+      "utc_offset" : -240,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}
+

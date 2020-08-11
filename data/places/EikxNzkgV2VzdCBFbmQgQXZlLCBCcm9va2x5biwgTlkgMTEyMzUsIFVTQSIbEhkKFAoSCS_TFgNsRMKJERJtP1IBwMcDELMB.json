@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "179",
+            "short_name" : "179",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "West End Avenue",
+            "short_name" : "West End Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan Beach",
+            "short_name" : "Manhattan Beach",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11235",
+            "short_name" : "11235",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "4808",
+            "short_name" : "4808",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e179 West End Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11235-4808\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "179 West End Ave, Brooklyn, NY 11235, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.577433,
+            "lng" : -73.9526808
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.57876643029149,
+               "lng" : -73.95148511970849
+            },
+            "southwest" : {
+               "lat" : 40.5760684697085,
+               "lng" : -73.9541830802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "cafdcf31549d03958872c41b975d6a5031408fb3",
+      "name" : "179 West End Ave",
+      "place_id" : "EikxNzkgV2VzdCBFbmQgQXZlLCBCcm9va2x5biwgTlkgMTEyMzUsIFVTQSIbEhkKFAoSCS_TFgNsRMKJERJtP1IBwMcDELMB",
+      "reference" : "EikxNzkgV2VzdCBFbmQgQXZlLCBCcm9va2x5biwgTlkgMTEyMzUsIFVTQSIbEhkKFAoSCS_TFgNsRMKJERJtP1IBwMcDELMB",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=179+West+End+Ave,+Brooklyn,+NY+11235,+USA&ftid=0x89c2446c0316d32f:0x3515d0cb6efe091f",
+      "utc_offset" : -240,
+      "vicinity" : "Brooklyn"
+   },
+   "status" : "OK"
+}
+

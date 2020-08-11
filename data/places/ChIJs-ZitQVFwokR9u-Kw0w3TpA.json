@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "8200",
+            "short_name" : "8200",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bay Parkway",
+            "short_name" : "Bay Pkwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bensonhurst",
+            "short_name" : "Bensonhurst",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11214",
+            "short_name" : "11214",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e8200 Bay Pkwy\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11214\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "8200 Bay Pkwy, Brooklyn, NY 11214, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6043035,
+            "lng" : -73.9919558
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.60554183029151,
+               "lng" : -73.99042241970849
+            },
+            "southwest" : {
+               "lat" : 40.60284386970851,
+               "lng" : -73.9931203802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "8200 Bay Pkwy",
+      "place_id" : "ChIJs-ZitQVFwokR9u-Kw0w3TpA",
+      "reference" : "ChIJs-ZitQVFwokR9u-Kw0w3TpA",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=8200+Bay+Pkwy,+Brooklyn,+NY+11214,+USA&ftid=0x89c24505b562e6b3:0x904e374cc38aeff6",
+      "utc_offset" : -240,
+      "vicinity" : "Brooklyn"
+   },
+   "status" : "OK"
+}
+

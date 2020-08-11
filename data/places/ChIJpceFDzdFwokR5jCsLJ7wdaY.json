@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1100",
+            "short_name" : "1100",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "60th Street",
+            "short_name" : "60th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Borough Park",
+            "short_name" : "Borough Park",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11219",
+            "short_name" : "11219",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1100 60th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11219\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "1100 60th St, Brooklyn, NY 11219, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6312528,
+            "lng" : -74.00290529999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.63267203029149,
+               "lng" : -74.00148291970849
+            },
+            "southwest" : {
+               "lat" : 40.6299740697085,
+               "lng" : -74.0041808802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "ea68fccb8de86bed1a17d3e97a3879f82680336d",
+      "name" : "1100 60th St",
+      "place_id" : "ChIJpceFDzdFwokR5jCsLJ7wdaY",
+      "reference" : "ChIJpceFDzdFwokR5jCsLJ7wdaY",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=1100+60th+St,+Brooklyn,+NY+11219,+USA&ftid=0x89c245370f85c7a5:0xa675f09e2cac30e6",
+      "utc_offset" : -240,
+      "vicinity" : "Brooklyn"
+   },
+   "status" : "OK"
+}
+

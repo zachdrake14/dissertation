@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "227",
+            "short_name" : "227",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Central Park West",
+            "short_name" : "Central Park West",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10024",
+            "short_name" : "10024",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e227 Central Park West\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10024\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "227 Central Park West, New York, NY 10024, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.78331070000001,
+            "lng" : -73.9711111
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7846069302915,
+               "lng" : -73.96963881970849
+            },
+            "southwest" : {
+               "lat" : 40.7819089697085,
+               "lng" : -73.9723367802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "227 Central Park West",
+      "place_id" : "ChIJqSlnq5pYwokRsmhV7kbqu2Q",
+      "reference" : "ChIJqSlnq5pYwokRsmhV7kbqu2Q",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=227+Central+Park+West,+New+York,+NY+10024,+USA&ftid=0x89c2589aab6729a9:0x64bbea46ee5568b2",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

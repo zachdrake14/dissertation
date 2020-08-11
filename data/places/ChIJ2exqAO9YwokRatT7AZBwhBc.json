@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "570",
+            "short_name" : "570",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Park Avenue",
+            "short_name" : "Park Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10065",
+            "short_name" : "10065",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e570 Park Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10065\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "570 Park Ave, New York, NY 10065, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7653177,
+            "lng" : -73.968425
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7666267302915,
+               "lng" : -73.96698016970849
+            },
+            "southwest" : {
+               "lat" : 40.7639287697085,
+               "lng" : -73.9696781302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "bea8505717005e17af335e6c329ae9bfd75e4c2c",
+      "name" : "570 Park Ave",
+      "place_id" : "ChIJ2exqAO9YwokRatT7AZBwhBc",
+      "plus_code" : {
+         "compound_code" : "Q28J+4J New York, NY, USA",
+         "global_code" : "87G8Q28J+4J"
+      },
+      "reference" : "ChIJ2exqAO9YwokRatT7AZBwhBc",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=570+Park+Ave,+New+York,+NY+10065,+USA&ftid=0x89c258ef006aecd9:0x1784709001fbd46a",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

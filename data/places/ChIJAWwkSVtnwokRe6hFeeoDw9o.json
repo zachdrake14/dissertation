@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "107-73",
+            "short_name" : "107-73",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "109th Street",
+            "short_name" : "109th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jamaica",
+            "short_name" : "Jamaica",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11419",
+            "short_name" : "11419",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e107-73 109th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJamaica\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11419\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "107-73 109th St, Jamaica, NY 11419, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6799869,
+            "lng" : -73.830665
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.68129928029149,
+               "lng" : -73.82944566970849
+            },
+            "southwest" : {
+               "lat" : 40.6786013197085,
+               "lng" : -73.8321436302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "36e5c6bd203006fa1dafd2eb77b3ccd37f202918",
+      "name" : "107-73 109th St",
+      "place_id" : "ChIJAWwkSVtnwokRe6hFeeoDw9o",
+      "plus_code" : {
+         "compound_code" : "M5H9+XP New York, NY, USA",
+         "global_code" : "87G8M5H9+XP"
+      },
+      "reference" : "ChIJAWwkSVtnwokRe6hFeeoDw9o",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=107-73+109th+St,+Jamaica,+NY+11419,+USA&ftid=0x89c2675b49246c01:0xdac303ea7945a87b",
+      "utc_offset" : -240,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}
+

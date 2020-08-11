@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "720",
+            "short_name" : "720",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "5th Avenue",
+            "short_name" : "5th Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10019",
+            "short_name" : "10019",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e720 5th Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10019\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "720 5th Ave, New York, NY 10019, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7626147,
+            "lng" : -73.97460719999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.76388138029149,
+               "lng" : -73.9731258197085
+            },
+            "southwest" : {
+               "lat" : 40.76118341970849,
+               "lng" : -73.97582378029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "720 5th Ave",
+      "place_id" : "ChIJeYDXX_pYwokRcCLQDBHcH84",
+      "plus_code" : {
+         "compound_code" : "Q27G+25 New York, NY, USA",
+         "global_code" : "87G8Q27G+25"
+      },
+      "reference" : "ChIJeYDXX_pYwokRcCLQDBHcH84",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=720+5th+Ave,+New+York,+NY+10019,+USA&ftid=0x89c258fa5fd78079:0xce1fdc110cd02270",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

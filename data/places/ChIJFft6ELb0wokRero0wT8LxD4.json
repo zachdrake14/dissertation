@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2277",
+            "short_name" : "2277",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Westchester Avenue",
+            "short_name" : "Westchester Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Westchester Square",
+            "short_name" : "Westchester Square",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10462",
+            "short_name" : "10462",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "5012",
+            "short_name" : "5012",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2277 Westchester Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10462-5012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "2277 Westchester Ave, The Bronx, NY 10462, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8352969,
+            "lng" : -73.84866989999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8366068302915,
+               "lng" : -73.84726291970848
+            },
+            "southwest" : {
+               "lat" : 40.8339088697085,
+               "lng" : -73.8499608802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "aed4eeb1832925cecb7dbb7d892ae456df994232",
+      "name" : "2277 Westchester Ave",
+      "place_id" : "ChIJFft6ELb0wokRero0wT8LxD4",
+      "plus_code" : {
+         "compound_code" : "R5P2+4G The Bronx, NY, USA",
+         "global_code" : "87G8R5P2+4G"
+      },
+      "reference" : "ChIJFft6ELb0wokRero0wT8LxD4",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=2277+Westchester+Ave,+The+Bronx,+NY+10462,+USA&ftid=0x89c2f4b6107afb15:0x3ec40b3fc134ba7a",
+      "utc_offset" : -240,
+      "vicinity" : "The Bronx"
+   },
+   "status" : "OK"
+}
+

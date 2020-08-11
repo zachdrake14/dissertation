@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2800",
+            "short_name" : "2800",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Victory Boulevard",
+            "short_name" : "Victory Blvd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mid Island",
+            "short_name" : "Mid Island",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Staten Island",
+            "short_name" : "Staten Island",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Richmond County",
+            "short_name" : "Richmond County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10314",
+            "short_name" : "10314",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2800 Victory Blvd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eStaten Island\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10314\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "2800 Victory Blvd, Staten Island, NY 10314, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6080147,
+            "lng" : -74.1533194
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6093614802915,
+               "lng" : -74.15198346970848
+            },
+            "southwest" : {
+               "lat" : 40.6066635197085,
+               "lng" : -74.15468143029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "2800 Victory Blvd",
+      "place_id" : "ChIJ0-wv7ERMwokRWQdN75Ysjq8",
+      "plus_code" : {
+         "compound_code" : "JR5W+6M Staten Island, NY, USA",
+         "global_code" : "87G7JR5W+6M"
+      },
+      "reference" : "ChIJ0-wv7ERMwokRWQdN75Ysjq8",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=2800+Victory+Blvd,+Staten+Island,+NY+10314,+USA&ftid=0x89c24c44ec2fecd3:0xaf8e2c96ef4d0759",
+      "utc_offset" : -240,
+      "vicinity" : "Staten Island"
+   },
+   "status" : "OK"
+}
+

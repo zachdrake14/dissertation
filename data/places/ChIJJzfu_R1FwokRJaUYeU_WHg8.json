@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "6801",
+            "short_name" : "6801",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bay Parkway",
+            "short_name" : "Bay Pkwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bensonhurst",
+            "short_name" : "Bensonhurst",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11204",
+            "short_name" : "11204",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e6801 Bay Pkwy\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11204\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "6801 Bay Pkwy, Brooklyn, NY 11204, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.61164859999999,
+            "lng" : -73.9834058
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6130549802915,
+               "lng" : -73.9821534197085
+            },
+            "southwest" : {
+               "lat" : 40.6103570197085,
+               "lng" : -73.9848513802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "6801 Bay Pkwy",
+      "place_id" : "ChIJJzfu_R1FwokRJaUYeU_WHg8",
+      "plus_code" : {
+         "compound_code" : "J268+MJ Brooklyn, NY, USA",
+         "global_code" : "87G8J268+MJ"
+      },
+      "reference" : "ChIJJzfu_R1FwokRJaUYeU_WHg8",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=6801+Bay+Pkwy,+Brooklyn,+NY+11204,+USA&ftid=0x89c2451dfdee3727:0xf1ed64f7918a525",
+      "utc_offset" : -240,
+      "vicinity" : "Brooklyn"
+   },
+   "status" : "OK"
+}
+

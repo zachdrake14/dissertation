@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "333",
+            "short_name" : "333",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "West End Avenue",
+            "short_name" : "West End Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10023",
+            "short_name" : "10023",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e333 West End Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10023\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "333 West End Ave, New York, NY 10023, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.782368,
+            "lng" : -73.983025
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7836523802915,
+               "lng" : -73.98151916970849
+            },
+            "southwest" : {
+               "lat" : 40.7809544197085,
+               "lng" : -73.9842171302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "9c3bf84d4902744e446d239f019b38e89108f3bc",
+      "name" : "333 West End Ave",
+      "place_id" : "ChIJJYMmgGJYwokRrsBjQHDhw-g",
+      "plus_code" : {
+         "compound_code" : "Q2J8+WQ New York, NY, USA",
+         "global_code" : "87G8Q2J8+WQ"
+      },
+      "reference" : "ChIJJYMmgGJYwokRrsBjQHDhw-g",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=333+West+End+Ave,+New+York,+NY+10023,+USA&ftid=0x89c2586280268325:0xe8c3e1704063c0ae",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "123",
+            "short_name" : "123",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "3rd Avenue",
+            "short_name" : "3rd Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10003",
+            "short_name" : "10003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e123 3rd Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "123 3rd Ave, New York, NY 10003, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.73295619999999,
+            "lng" : -73.98694619999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.73438313029149,
+               "lng" : -73.98578136970849
+            },
+            "southwest" : {
+               "lat" : 40.7316851697085,
+               "lng" : -73.9884793302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "ee63fe2dc888a8fd4b54f418de3a7b7d2a388c00",
+      "name" : "123 3rd Ave",
+      "place_id" : "ChIJd6Y05J5ZwokRmusSXw2mttY",
+      "reference" : "ChIJd6Y05J5ZwokRmusSXw2mttY",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=123+3rd+Ave,+New+York,+NY+10003,+USA&ftid=0x89c2599ee434a677:0xd6b6a60d5f12eb9a",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

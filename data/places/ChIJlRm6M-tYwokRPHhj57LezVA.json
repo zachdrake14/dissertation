@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "784",
+            "short_name" : "784",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Park Avenue",
+            "short_name" : "Park Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10021",
+            "short_name" : "10021",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "3553",
+            "short_name" : "3553",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e784 Park Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10021-3553\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "784 Park Ave, New York, NY 10021, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.77236749999999,
+            "lng" : -73.96342749999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7736536302915,
+               "lng" : -73.96192881970849
+            },
+            "southwest" : {
+               "lat" : 40.77095566970851,
+               "lng" : -73.9646267802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "858182c821753e9b726b30c490dc4040b4283168",
+      "name" : "784 Park Ave",
+      "place_id" : "ChIJlRm6M-tYwokRPHhj57LezVA",
+      "reference" : "ChIJlRm6M-tYwokRPHhj57LezVA",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=784+Park+Ave,+New+York,+NY+10021,+USA&ftid=0x89c258eb33ba1995:0x50cddeb2e763783c",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

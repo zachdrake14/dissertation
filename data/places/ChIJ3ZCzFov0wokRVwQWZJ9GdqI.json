@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1926",
+            "short_name" : "1926",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Crotona Parkway",
+            "short_name" : "Crotona Pkwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "West Farms",
+            "short_name" : "West Farms",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10460",
+            "short_name" : "10460",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1926 Crotona Pkwy\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10460\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "1926 Crotona Pkwy, The Bronx, NY 10460, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8413445,
+            "lng" : -73.88495349999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8428080802915,
+               "lng" : -73.88368796970849
+            },
+            "southwest" : {
+               "lat" : 40.84011011970851,
+               "lng" : -73.8863859302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "name" : "1926 Crotona Pkwy",
+      "place_id" : "ChIJ3ZCzFov0wokRVwQWZJ9GdqI",
+      "reference" : "ChIJ3ZCzFov0wokRVwQWZJ9GdqI",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=1926+Crotona+Pkwy,+The+Bronx,+NY+10460,+USA&ftid=0x89c2f48b16b390dd:0xa276469f64160457",
+      "utc_offset" : -240,
+      "vicinity" : "The Bronx"
+   },
+   "status" : "OK"
+}
+

@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1130",
+            "short_name" : "1130",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "5th Avenue",
+            "short_name" : "5th Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10128",
+            "short_name" : "10128",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "0121",
+            "short_name" : "0121",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1130 5th Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10128-0121\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "1130 5th Ave, New York, NY 10128, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7866218,
+            "lng" : -73.95641739999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7880155302915,
+               "lng" : -73.95517746970849
+            },
+            "southwest" : {
+               "lat" : 40.7853175697085,
+               "lng" : -73.95787543029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "1c35063f54388e938c58c510b258d7863433eb6d",
+      "name" : "1130 5th Ave",
+      "place_id" : "ChIJPSYQd6FYwokRypjQBOOJN68",
+      "reference" : "ChIJPSYQd6FYwokRypjQBOOJN68",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=1130+5th+Ave,+New+York,+NY+10128,+USA&ftid=0x89c258a17710263d:0xaf3789e304d098ca",
+      "utc_offset" : -240,
+      "vicinity" : "Manhattan"
+   },
+   "status" : "OK"
+}
+

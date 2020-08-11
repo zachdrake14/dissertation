@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "99-09",
+            "short_name" : "99-09",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "71st Avenue",
+            "short_name" : "71st Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Flushing",
+            "short_name" : "Flushing",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11375",
+            "short_name" : "11375",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e99-09 71st Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFlushing\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11375\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "99-09 71st Ave, Flushing, NY 11375, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.71546399999999,
+            "lng" : -73.848067
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.71676688029149,
+               "lng" : -73.84659236970849
+            },
+            "southwest" : {
+               "lat" : 40.7140689197085,
+               "lng" : -73.8492903302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "36614917f97684bf427c5b50eedbb59dc9cf0a5d",
+      "name" : "99-09 71st Ave",
+      "place_id" : "ChIJH0cLshhewokRXjh7F9W9Vcs",
+      "plus_code" : {
+         "compound_code" : "P582+5Q New York, NY, USA",
+         "global_code" : "87G8P582+5Q"
+      },
+      "reference" : "ChIJH0cLshhewokRXjh7F9W9Vcs",
+      "scope" : "GOOGLE",
+      "types" : [ "street_address" ],
+      "url" : "https://maps.google.com/?q=99-09+71st+Ave,+Flushing,+NY+11375,+USA&ftid=0x89c25e18b20b471f:0xcb55bdd5177b385e",
+      "utc_offset" : -240,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}
+

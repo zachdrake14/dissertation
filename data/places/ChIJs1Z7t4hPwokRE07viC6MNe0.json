@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "202",
+            "short_name" : "202",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Marine Avenue",
+            "short_name" : "Marine Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bay Ridge",
+            "short_name" : "Bay Ridge",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11209",
+            "short_name" : "11209",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e202 Marine Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11209\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "202 Marine Ave, Brooklyn, NY 11209, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6152014,
+            "lng" : -74.0351225
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6165999802915,
+               "lng" : -74.03363316970848
+            },
+            "southwest" : {
+               "lat" : 40.6139020197085,
+               "lng" : -74.0363311302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "9a51c2c295364491665c4fa957785f711c5e8462",
+      "name" : "202 Marine Ave",
+      "place_id" : "ChIJs1Z7t4hPwokRE07viC6MNe0",
+      "reference" : "ChIJs1Z7t4hPwokRE07viC6MNe0",
+      "scope" : "GOOGLE",
+      "types" : [ "premise" ],
+      "url" : "https://maps.google.com/?q=202+Marine+Ave,+Brooklyn,+NY+11209,+USA&ftid=0x89c24f88b77b56b3:0xed358c2e88ef4e13",
+      "utc_offset" : -240,
+      "vicinity" : "Brooklyn"
+   },
+   "status" : "OK"
+}
+
