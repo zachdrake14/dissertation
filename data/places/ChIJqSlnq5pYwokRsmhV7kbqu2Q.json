@@ -65,7 +65,6 @@
       "name" : "227 Central Park West",
       "place_id" : "ChIJqSlnq5pYwokRsmhV7kbqu2Q",
       "reference" : "ChIJqSlnq5pYwokRsmhV7kbqu2Q",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=227+Central+Park+West,+New+York,+NY+10024,+USA&ftid=0x89c2589aab6729a9:0x64bbea46ee5568b2",
       "utc_offset" : -240,

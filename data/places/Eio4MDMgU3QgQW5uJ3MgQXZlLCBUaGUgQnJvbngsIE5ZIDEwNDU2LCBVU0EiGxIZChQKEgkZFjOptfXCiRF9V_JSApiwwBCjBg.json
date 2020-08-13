@@ -65,6 +65,7 @@
       "name" : "803 St Ann's Ave",
       "place_id" : "Eio4MDMgU3QgQW5uJ3MgQXZlLCBUaGUgQnJvbngsIE5ZIDEwNDU2LCBVU0EiGxIZChQKEgkZFjOptfXCiRF9V_JSApiwwBCjBg",
       "reference" : "Eio4MDMgU3QgQW5uJ3MgQXZlLCBUaGUgQnJvbngsIE5ZIDEwNDU2LCBVU0EiGxIZChQKEgkZFjOptfXCiRF9V_JSApiwwBCjBg",
+      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=803+St+Ann%27s+Ave,+The+Bronx,+NY+10456,+USA&ftid=0x89c2f5b5a9331619:0xa2abf2d14ef3ac85",
       "utc_offset" : -240,

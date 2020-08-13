@@ -62,11 +62,9 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "1598a91d578e118bd59f3cca7aca2bf296607eed",
       "name" : "749 St Ann's Ave",
       "place_id" : "ChIJu1GfwbX1wokRMSNAuEcHzCw",
       "reference" : "ChIJu1GfwbX1wokRMSNAuEcHzCw",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=749+St+Ann%27s+Ave,+The+Bronx,+NY+10451,+USA&ftid=0x89c2f5b5c19f51bb:0x2ccc0747b8402331",
       "utc_offset" : -240,

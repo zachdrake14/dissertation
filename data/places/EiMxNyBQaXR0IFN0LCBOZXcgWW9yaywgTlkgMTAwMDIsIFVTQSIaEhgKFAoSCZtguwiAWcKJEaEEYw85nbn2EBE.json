@@ -65,6 +65,7 @@
       "name" : "17 Pitt St",
       "place_id" : "EiMxNyBQaXR0IFN0LCBOZXcgWW9yaywgTlkgMTAwMDIsIFVTQSIaEhgKFAoSCZtguwiAWcKJEaEEYw85nbn2EBE",
       "reference" : "EiMxNyBQaXR0IFN0LCBOZXcgWW9yaywgTlkgMTAwMDIsIFVTQSIaEhgKFAoSCZtguwiAWcKJEaEEYw85nbn2EBE",
+      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=17+Pitt+St,+New+York,+NY+10002,+USA&ftid=0x89c2598008bb609b:0x89baf4a6d0f251cb",
       "utc_offset" : -240,

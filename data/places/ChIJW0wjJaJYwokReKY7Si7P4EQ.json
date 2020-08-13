@@ -67,7 +67,6 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "cb50362c39aabedc2a9eecb9f584667b5fdafd5e",
       "name" : "1109 5th Ave",
       "place_id" : "ChIJW0wjJaJYwokReKY7Si7P4EQ",
       "plus_code" : {
@@ -75,7 +74,6 @@
          "global_code" : "87G8Q2PV+53"
       },
       "reference" : "ChIJW0wjJaJYwokReKY7Si7P4EQ",
-      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=1109+5th+Ave,+New+York,+NY+10128,+USA&ftid=0x89c258a225234c5b:0x44e0cf2e4a3ba678",
       "utc_offset" : -240,

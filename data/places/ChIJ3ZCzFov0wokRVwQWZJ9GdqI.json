@@ -65,6 +65,7 @@
       "name" : "1926 Crotona Pkwy",
       "place_id" : "ChIJ3ZCzFov0wokRVwQWZJ9GdqI",
       "reference" : "ChIJ3ZCzFov0wokRVwQWZJ9GdqI",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=1926+Crotona+Pkwy,+The+Bronx,+NY+10460,+USA&ftid=0x89c2f48b16b390dd:0xa276469f64160457",
       "utc_offset" : -240,

@@ -70,6 +70,7 @@
       "name" : "1158 5th Ave",
       "place_id" : "ChIJkypV36BYwokRRgkmTL2FWPo",
       "reference" : "ChIJkypV36BYwokRRgkmTL2FWPo",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=1158+5th+Ave,+New+York,+NY+10029,+USA&ftid=0x89c258a0df552a93:0xfa5885bd4c260946",
       "utc_offset" : -240,

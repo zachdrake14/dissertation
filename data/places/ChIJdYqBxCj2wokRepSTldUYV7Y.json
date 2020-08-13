@@ -62,7 +62,6 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "6ecca351bcd2b47dc542351b01a1ad51931ad119",
       "name" : "260 Riverside Dr",
       "place_id" : "ChIJdYqBxCj2wokRepSTldUYV7Y",
       "plus_code" : {
@@ -70,6 +69,7 @@
          "global_code" : "87G8Q2WG+VJ"
       },
       "reference" : "ChIJdYqBxCj2wokRepSTldUYV7Y",
+      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=260+Riverside+Dr,+New+York,+NY+10025,+USA&ftid=0x89c2f628c4818a75:0xb65718d59593947a",
       "utc_offset" : -240,

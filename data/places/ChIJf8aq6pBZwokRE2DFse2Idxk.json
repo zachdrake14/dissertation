@@ -62,7 +62,6 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "fd275fd39f6328ecffbaf7bf008a2a154c9ca134",
       "name" : "1 Washington Square N",
       "place_id" : "ChIJf8aq6pBZwokRE2DFse2Idxk",
       "plus_code" : {
@@ -70,6 +69,7 @@
          "global_code" : "87G8P2J3+9Q"
       },
       "reference" : "ChIJf8aq6pBZwokRE2DFse2Idxk",
+      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=1+Washington+Square+N,+New+York,+NY+10003,+USA&ftid=0x89c25990eaaac67f:0x197788edb1c56013",
       "utc_offset" : -240,

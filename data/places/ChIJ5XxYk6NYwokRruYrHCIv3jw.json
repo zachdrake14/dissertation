@@ -67,10 +67,10 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "d2f288afba5f80e83ed733a776a29f735bf80780",
       "name" : "1160 Park Ave",
       "place_id" : "ChIJ5XxYk6NYwokRruYrHCIv3jw",
       "reference" : "ChIJ5XxYk6NYwokRruYrHCIv3jw",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=1160+Park+Ave,+New+York,+NY+10128,+USA&ftid=0x89c258a393587ce5:0x3cde2f221c2be6ae",
       "utc_offset" : -240,

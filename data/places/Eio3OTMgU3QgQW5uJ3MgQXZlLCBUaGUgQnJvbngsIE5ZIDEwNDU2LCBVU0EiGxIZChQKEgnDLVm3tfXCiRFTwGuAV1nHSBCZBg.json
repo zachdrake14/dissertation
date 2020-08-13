@@ -62,11 +62,9 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "bf7e3a572f21b6bdf3bd4ef122f1c4065acd2be2",
       "name" : "793 St Ann's Ave",
       "place_id" : "Eio3OTMgU3QgQW5uJ3MgQXZlLCBUaGUgQnJvbngsIE5ZIDEwNDU2LCBVU0EiGxIZChQKEgnDLVm3tfXCiRFTwGuAV1nHSBCZBg",
       "reference" : "Eio3OTMgU3QgQW5uJ3MgQXZlLCBUaGUgQnJvbngsIE5ZIDEwNDU2LCBVU0EiGxIZChQKEgnDLVm3tfXCiRFTwGuAV1nHSBCZBg",
-      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=793+St+Ann%27s+Ave,+The+Bronx,+NY+10456,+USA&ftid=0x89c2f5b5b7592dc3:0x519a05a6476c2f59",
       "utc_offset" : -240,

@@ -10,9 +10,6 @@ nyc_addresses <- read.csv(here('data/city_of_new_york.csv'))
 nyc_addresses %<>% 
   mutate(full_address = paste(NUMBER, STREET, POSTCODE))
 
-test <- nyc_addresses[1:500,]
-
-
 get_place_id <- function(key, address){
 
   output <- GET(url = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json?",
@@ -33,9 +30,9 @@ get_place_id <- function(key, address){
 place_id_bucket <- data.frame(matrix(ncol=2, nrow=0))
 colnames(place_id_bucket) <- c('place_id', 'status')
 
-for (row in 1:nrow(test)) {
+for (row in 1:nrow(nyc_addresses)) {
   
-  address<- test[row,]$full_address
+  address<- nyc_addresses[row,]$full_address
   print(address)
   output <- get_place_id(key=key, address = address)
   place_id_bucket <- rbind(place_id_bucket, output)
@@ -51,7 +48,7 @@ get_place_details <- function(key, place_id){
       place_id = place_id
       )) %>%
     content(as = "text", encoding = "UTF-8") %>%
-    write(file=here(paste0("data/",place_id,".json")))
+    write(file=here(paste0("data/places/",place_id,".json")))
   
 }
 

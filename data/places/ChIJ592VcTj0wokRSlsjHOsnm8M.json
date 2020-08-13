@@ -65,7 +65,6 @@
       "name" : "1295 Morris Ave",
       "place_id" : "ChIJ592VcTj0wokRSlsjHOsnm8M",
       "reference" : "ChIJ592VcTj0wokRSlsjHOsnm8M",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=1295+Morris+Ave,+The+Bronx,+NY+10456,+USA&ftid=0x89c2f4387195dde7:0xc39b27eb1c235b4a",
       "utc_offset" : -240,

@@ -70,6 +70,7 @@
       "name" : "322 Central Park West",
       "place_id" : "ChIJVUUzNJxYwokR5CPPKZzw0o8",
       "reference" : "ChIJVUUzNJxYwokR5CPPKZzw0o8",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=322+Central+Park+West,+New+York,+NY+10025,+USA&ftid=0x89c2589c34334555:0x8fd2f09c29cf23e4",
       "utc_offset" : -240,

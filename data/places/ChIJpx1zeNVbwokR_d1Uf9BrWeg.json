@@ -62,10 +62,10 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "f1132258e03bd7f151c16160d1380295bda95bdb",
       "name" : "550 Grand St",
       "place_id" : "ChIJpx1zeNVbwokR_d1Uf9BrWeg",
       "reference" : "ChIJpx1zeNVbwokR_d1Uf9BrWeg",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=550+Grand+St,+New+York,+NY+10002,+USA&ftid=0x89c25bd578731da7:0xe8596bd07f54ddfd",
       "utc_offset" : -240,

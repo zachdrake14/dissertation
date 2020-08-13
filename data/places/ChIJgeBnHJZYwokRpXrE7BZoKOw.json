@@ -67,11 +67,9 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "a6bc910e86d4b6f76dfcd3af2e86b48710fcd298",
       "name" : "940 Park Ave",
       "place_id" : "ChIJgeBnHJZYwokRpXrE7BZoKOw",
       "reference" : "ChIJgeBnHJZYwokRpXrE7BZoKOw",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=940+Park+Ave,+New+York,+NY+10028,+USA&ftid=0x89c258961c67e081:0xec286816ecc47aa5",
       "utc_offset" : -240,

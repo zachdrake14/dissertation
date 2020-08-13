@@ -67,10 +67,10 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "993643b45e05acb4234a31b988419247129f848a",
       "name" : "3102 Clarendon Rd",
       "place_id" : "ChIJBXcSzVpbwokRR5zogwQJLWI",
       "reference" : "ChIJBXcSzVpbwokRR5zogwQJLWI",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=3102+Clarendon+Rd,+Brooklyn,+NY+11226,+USA&ftid=0x89c25b5acd127705:0x622d090483e89c47",
       "utc_offset" : -240,

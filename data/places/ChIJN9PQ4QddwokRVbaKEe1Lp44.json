@@ -62,11 +62,9 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "6c6caa658848d53b9beb93008e2b26e22e4f4a61",
       "name" : "960 Elton St",
       "place_id" : "ChIJN9PQ4QddwokRVbaKEe1Lp44",
       "reference" : "ChIJN9PQ4QddwokRVbaKEe1Lp44",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=960+Elton+St,+Brooklyn,+NY+11208,+USA&ftid=0x89c25d07e1d0d337:0x8ea74bed118ab655",
       "utc_offset" : -240,

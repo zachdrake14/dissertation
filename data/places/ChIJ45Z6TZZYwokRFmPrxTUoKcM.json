@@ -62,10 +62,10 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "8103ed2227abfd22f302512165e5634ce2b22d1f",
       "name" : "1010 5th Ave",
       "place_id" : "ChIJ45Z6TZZYwokRFmPrxTUoKcM",
       "reference" : "ChIJ45Z6TZZYwokRFmPrxTUoKcM",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=1010+5th+Ave,+New+York,+NY+10028,+USA&ftid=0x89c258964d7a96e3:0xc3292835c5eb6316",
       "utc_offset" : -240,

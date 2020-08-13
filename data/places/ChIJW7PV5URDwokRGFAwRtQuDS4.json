@@ -67,11 +67,9 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "31f4e524488ed55f599b46bae96ed2960cf37589",
       "name" : "5401 Fillmore Ave",
       "place_id" : "ChIJW7PV5URDwokRGFAwRtQuDS4",
       "reference" : "ChIJW7PV5URDwokRGFAwRtQuDS4",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=5401+Fillmore+Ave,+Brooklyn,+NY+11234,+USA&ftid=0x89c24344e5d5b35b:0x2e0d2ed446305018",
       "utc_offset" : -240,

@@ -67,10 +67,10 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "168897bf1b09d2cc542e6a7e60acd621392c54b3",
       "name" : "4122 Avenue T",
       "place_id" : "ChIJw9-LJl1DwokRHKG9GUq3oyg",
       "reference" : "ChIJw9-LJl1DwokRHKG9GUq3oyg",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=4122+Avenue+T,+Brooklyn,+NY+11234,+USA&ftid=0x89c2435d268bdfc3:0x28a3b74a19bda11c",
       "utc_offset" : -240,

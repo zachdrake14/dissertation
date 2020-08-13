@@ -65,7 +65,6 @@
       "name" : "2098 Bartow Ave",
       "place_id" : "ChIJycSiqrmMwokRg4m3eSHbGcs",
       "reference" : "ChIJycSiqrmMwokRg4m3eSHbGcs",
-      "scope" : "GOOGLE",
       "types" : [ "subpremise" ],
       "url" : "https://maps.google.com/?q=2098+Bartow+Ave,+The+Bronx,+NY+10475,+USA&ftid=0x89c28cb9aaa2c4c9:0xcb19db2179b78983",
       "utc_offset" : -240,

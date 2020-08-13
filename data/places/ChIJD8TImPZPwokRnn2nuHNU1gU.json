@@ -70,6 +70,7 @@
       "name" : "7923 Colonial Rd",
       "place_id" : "ChIJD8TImPZPwokRnn2nuHNU1gU",
       "reference" : "ChIJD8TImPZPwokRnn2nuHNU1gU",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=7923+Colonial+Rd,+Brooklyn,+NY+11209,+USA&ftid=0x89c24ff698c8c40f:0x5d65473b8a77d9e",
       "utc_offset" : -240,

@@ -67,7 +67,6 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "bc54d76c47e6a5579a308c25e2622aa430aed6d9",
       "name" : "560 Concord Ave",
       "place_id" : "ChIJkaEI4bn1wokRTSQA-4CTaSA",
       "plus_code" : {
@@ -75,7 +74,6 @@
          "global_code" : "87G8R37R+8V"
       },
       "reference" : "ChIJkaEI4bn1wokRTSQA-4CTaSA",
-      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=560+Concord+Ave,+The+Bronx,+NY+10455,+USA&ftid=0x89c2f5b9e108a191:0x20699380fb00244d",
       "utc_offset" : -240,

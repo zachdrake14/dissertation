@@ -69,6 +69,7 @@
          "global_code" : "87G8Q259+Q4"
       },
       "reference" : "ChIJjaDoMP9YwokRfED1DszC2z8",
+      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=1221+6th+Ave,+New+York,+NY+10020,+USA&ftid=0x89c258ff30e8a08d:0x3fdbc2cc0ef5407c",
       "utc_offset" : -240,

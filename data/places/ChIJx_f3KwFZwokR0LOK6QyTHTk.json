@@ -62,11 +62,9 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "a04e9550ea74aea00415993df7f74915227c8500",
       "name" : "125 Park Ave",
       "place_id" : "ChIJx_f3KwFZwokR0LOK6QyTHTk",
       "reference" : "ChIJx_f3KwFZwokR0LOK6QyTHTk",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=125+Park+Ave,+New+York,+NY+10017,+USA&ftid=0x89c259012bf7f7c7:0x391d930ce98ab3d0",
       "utc_offset" : -240,

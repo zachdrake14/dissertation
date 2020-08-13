@@ -70,7 +70,6 @@
       "name" : "2671 86th St",
       "place_id" : "ChIJsa2aNVVEwokRxWv77Ahpz1k",
       "reference" : "ChIJsa2aNVVEwokRxWv77Ahpz1k",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=2671+86th+St,+Brooklyn,+NY+11223,+USA&ftid=0x89c24455359aadb1:0x59cf6908ecfb6bc5",
       "utc_offset" : -240,

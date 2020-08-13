@@ -65,6 +65,7 @@
       "name" : "755 St Ann's Ave",
       "place_id" : "Eio3NTUgU3QgQW5uJ3MgQXZlLCBUaGUgQnJvbngsIE5ZIDEwNDU2LCBVU0EiGxIZChQKEgnDLVm3tfXCiRFTwGuAV1nHSBDzBQ",
       "reference" : "Eio3NTUgU3QgQW5uJ3MgQXZlLCBUaGUgQnJvbngsIE5ZIDEwNDU2LCBVU0EiGxIZChQKEgnDLVm3tfXCiRFTwGuAV1nHSBDzBQ",
+      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=755+St+Ann%27s+Ave,+The+Bronx,+NY+10456,+USA&ftid=0x89c2f5b5b7592dc3:0xb56f6717e8fc29bb",
       "utc_offset" : -240,

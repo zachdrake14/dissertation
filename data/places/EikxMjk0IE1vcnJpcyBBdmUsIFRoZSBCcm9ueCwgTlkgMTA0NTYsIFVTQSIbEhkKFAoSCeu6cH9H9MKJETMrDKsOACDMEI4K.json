@@ -70,7 +70,6 @@
       "name" : "1294 Morris Ave",
       "place_id" : "EikxMjk0IE1vcnJpcyBBdmUsIFRoZSBCcm9ueCwgTlkgMTA0NTYsIFVTQSIbEhkKFAoSCeu6cH9H9MKJETMrDKsOACDMEI4K",
       "reference" : "EikxMjk0IE1vcnJpcyBBdmUsIFRoZSBCcm9ueCwgTlkgMTA0NTYsIFVTQSIbEhkKFAoSCeu6cH9H9MKJETMrDKsOACDMEI4K",
-      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=1294+Morris+Ave,+The+Bronx,+NY+10456,+USA&ftid=0x89c2f4477f70baeb:0xf86de212e434d224",
       "utc_offset" : -240,

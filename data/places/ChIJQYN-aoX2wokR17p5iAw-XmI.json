@@ -62,10 +62,10 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "64c2cafb3ac1af3d3fb8388c408ce0bb9cd11d57",
       "name" : "884 Riverside Dr",
       "place_id" : "ChIJQYN-aoX2wokR17p5iAw-XmI",
       "reference" : "ChIJQYN-aoX2wokR17p5iAw-XmI",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=884+Riverside+Dr,+New+York,+NY+10032,+USA&ftid=0x89c2f6856a7e8341:0x625e3e0c8879bad7",
       "utc_offset" : -240,

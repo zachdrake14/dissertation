@@ -65,7 +65,6 @@
       "name" : "2720 Broadway",
       "place_id" : "ChIJYQnIVyT2wokRR27njKlzA30",
       "reference" : "ChIJYQnIVyT2wokRR27njKlzA30",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=2720+Broadway,+New+York,+NY+10025,+USA&ftid=0x89c2f62457c80961:0x7d0373a98ce76e47",
       "utc_offset" : -240,

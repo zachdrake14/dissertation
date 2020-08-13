@@ -62,10 +62,10 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "7f6652b015dfb2bcab280c322796fb85ebddfa5d",
       "name" : "1141 Park Ave",
       "place_id" : "ChIJm8bknKNYwokRMg4hnVeruI0",
       "reference" : "ChIJm8bknKNYwokRMg4hnVeruI0",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=1141+Park+Ave,+New+York,+NY+10128,+USA&ftid=0x89c258a39ce4c69b:0x8db8ab579d210e32",
       "utc_offset" : -240,

@@ -69,6 +69,7 @@
          "global_code" : "87G8H3M7+M6"
       },
       "reference" : "ChIJi6oalnhEwokROrTmHroJaTc",
+      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=3047+Emmons+Ave,+Brooklyn,+NY+11235,+USA&ftid=0x89c24478961aaa8b:0x376909ba1ee6b43a",
       "utc_offset" : -240,

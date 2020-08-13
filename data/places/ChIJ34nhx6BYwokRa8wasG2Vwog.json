@@ -70,7 +70,6 @@
       "name" : "1170 5th Ave",
       "place_id" : "ChIJ34nhx6BYwokRa8wasG2Vwog",
       "reference" : "ChIJ34nhx6BYwokRa8wasG2Vwog",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=1170+5th+Ave,+New+York,+NY+10029,+USA&ftid=0x89c258a0c7e189df:0x88c2956db01acc6b",
       "utc_offset" : -240,

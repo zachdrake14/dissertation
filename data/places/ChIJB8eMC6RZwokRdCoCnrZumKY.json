@@ -62,11 +62,9 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "3f7e89c0b4aac8b7dcb54f71ea21b41a239dae32",
       "name" : "186 5th Ave",
       "place_id" : "ChIJB8eMC6RZwokRdCoCnrZumKY",
       "reference" : "ChIJB8eMC6RZwokRdCoCnrZumKY",
-      "scope" : "GOOGLE",
       "types" : [ "subpremise" ],
       "url" : "https://maps.google.com/?q=186+5th+Ave,+New+York,+NY+10010,+USA&ftid=0x89c259a40b8cc707:0xa6986eb69e022a74",
       "utc_offset" : -240,

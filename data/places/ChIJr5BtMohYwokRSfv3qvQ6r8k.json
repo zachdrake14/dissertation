@@ -62,11 +62,9 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "bf928d9aa861d1ada9e654f91cc7eb8329dc9da0",
       "name" : "340 West End Ave",
       "place_id" : "ChIJr5BtMohYwokRSfv3qvQ6r8k",
       "reference" : "ChIJr5BtMohYwokRSfv3qvQ6r8k",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=340+West+End+Ave,+New+York,+NY+10023,+USA&ftid=0x89c25888326d90af:0xc9af3af4aaf7fb49",
       "utc_offset" : -240,

@@ -69,6 +69,7 @@
          "global_code" : "87G8Q27G+25"
       },
       "reference" : "ChIJeYDXX_pYwokRcCLQDBHcH84",
+      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=720+5th+Ave,+New+York,+NY+10019,+USA&ftid=0x89c258fa5fd78079:0xce1fdc110cd02270",
       "utc_offset" : -240,

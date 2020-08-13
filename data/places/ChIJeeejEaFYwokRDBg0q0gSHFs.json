@@ -67,10 +67,10 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "a72d754b11308feb6be813ae35481c94cb57aded",
       "name" : "1140 5th Ave",
       "place_id" : "ChIJeeejEaFYwokRDBg0q0gSHFs",
       "reference" : "ChIJeeejEaFYwokRDBg0q0gSHFs",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=1140+5th+Ave,+New+York,+NY+10128,+USA&ftid=0x89c258a111a3e779:0x5b1c1248ab34180c",
       "utc_offset" : -240,

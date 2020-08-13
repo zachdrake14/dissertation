@@ -65,7 +65,6 @@
       "name" : "32 Washington Square W",
       "place_id" : "ChIJIcC8R5FZwokRShhKi3yBbSE",
       "reference" : "ChIJIcC8R5FZwokRShhKi3yBbSE",
-      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=32+Washington+Square+W,+New+York,+NY+10011,+USA&ftid=0x89c2599147bcc021:0x216d817c8b4a184a",
       "utc_offset" : -240,

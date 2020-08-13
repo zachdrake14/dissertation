@@ -69,6 +69,7 @@
          "global_code" : "87G8Q2XR+R7"
       },
       "reference" : "ChIJqSYudBj2wokRCfIQbnIY2V4",
+      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=478+Central+Park+West,+New+York,+NY+10025,+USA&ftid=0x89c2f618742e26a9:0x5ed918726e10f209",
       "utc_offset" : -240,

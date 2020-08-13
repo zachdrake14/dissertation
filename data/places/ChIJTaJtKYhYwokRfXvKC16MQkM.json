@@ -69,6 +69,7 @@
          "global_code" : "87G8Q2M8+2V"
       },
       "reference" : "ChIJTaJtKYhYwokRfXvKC16MQkM",
+      "scope" : "GOOGLE",
       "types" : [ "street_address" ],
       "url" : "https://maps.google.com/?q=341+West+End+Ave,+New+York,+NY+10023,+USA&ftid=0x89c25888296da24d:0x43428c5e0bca7b7d",
       "utc_offset" : -240,

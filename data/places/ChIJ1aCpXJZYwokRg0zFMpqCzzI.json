@@ -67,10 +67,10 @@
          }
       },
       "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-      "id" : "3b9c9f0ad232f8736269a19bcc14f77885ac9787",
       "name" : "1009 5th Ave",
       "place_id" : "ChIJ1aCpXJZYwokRg0zFMpqCzzI",
       "reference" : "ChIJ1aCpXJZYwokRg0zFMpqCzzI",
+      "scope" : "GOOGLE",
       "types" : [ "premise" ],
       "url" : "https://maps.google.com/?q=1009+5th+Ave,+New+York,+NY+10028,+USA&ftid=0x89c258965ca9a0d5:0x32cf829a32c54c83",
       "utc_offset" : -240,
